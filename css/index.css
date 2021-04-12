@@ -2263,6 +2263,7 @@ blockquote footer cite:before {
 @media screen and (max-width: 768px) {
   .layout > div:first-child:not(.recent-posts) {
     padding: 1.8rem 0.7rem;
+    margin-top: -1px;
   }
 }
 .layout > div:first-child {
@@ -3737,7 +3738,7 @@ blockquote footer cite:before {
 }
 @media (max-width: 768px) {
   #page-header .cloud {
-    bottom: -60px;
+    bottom: -10px;
   }
 }
 #page-header .nami {
@@ -3749,11 +3750,14 @@ blockquote footer cite:before {
   display: flex;
   position: relative;
   width: 100%;
-  height: 100px;
+  height: 10vh;
+  margin-bottom: -0.6875rem;
+  min-height: 3.125rem;
+  max-height: 9.375rem;
 }
 @media (max-width: 768px) {
   #page-header .nami {
-    height: 100px;
+    height: 10vh;
   }
 }
 #page-header .nami2>use {
@@ -3862,10 +3866,7 @@ blockquote footer cite:before {
 @media screen and (max-width: 768px) {
   #page-header.post-bg {
     margin-top: 0px;
-    height: 18rem;
     background-color: rgba(255,255,255,0);
-    backdrop-filter: blur(2px);
-    -webkit-backdrop-filter: blur(2px);
   }
 }
 #page-header #post-info {
@@ -3873,14 +3874,13 @@ blockquote footer cite:before {
   bottom: 5rem;
   padding: 0 8%;
   width: 100%;
-  top: 120px;
+  top: 70px;
   text-align: center;
 }
 @media screen and (max-width: 900px) {
   #page-header #post-info {
     bottom: 1.5rem;
     text-align: center;
-    top: 70px;
   }
 }
 @media screen and (max-width: 768px) {
@@ -4061,27 +4061,10 @@ _:future,
   padding-left: 0.5rem;
 }
 #post-info #post-meta {
-  color: #4294e8;
-  font-size: 1.2em;
+  color: #fff;
+  font-size: 1em;
   text-align: center;
-}
-@media screen and (min-width: 768px) {
-  #post-info #post-meta > .meta-secondline > span:first-child {
-    display: none;
-  }
-}
-@media screen and (max-width: 768px) {
-  #post-info #post-meta {
-    font-size: 90%;
-  }
-  #post-info #post-meta > .meta-firstline,
-  #post-info #post-meta > .meta-secondline,
-  #post-info #post-meta > .meta-thirdline {
-    display: inline;
-  }
-}
-#post-info #post-meta .post-meta-separator {
-  margin: 0 0.25rem;
+  text-shadow: 0 0 4px #0779ef, 0 0 4px #007af7, 0 0 4px #017eff, 0 0 1px #0a0a0a;
 }
 #post-info #post-meta .post-meta-icon {
   margin-right: 0.2rem;
@@ -4170,7 +4153,7 @@ _:future,
   color: var(--white);
 }
 #nav #site-name {
-  text-shadow: 1px 1px 4px #005dff, 0px 0px 4px #000, 0px 0px 2px #005dff;
+  text-shadow: 0 0 4px #4294e8, 3px 3px 3px #4294e8, 1px 1px 1px #4294e8;
   font-weight: bold;
   cursor: pointer;
 }
@@ -4288,10 +4271,11 @@ _:future,
   margin: 0.4rem 0.4rem 0.4rem 0;
   padding: 0 0.6rem;
   width: fit-content;
-  border: 1px solid #49b1f5;
+  border: 2px solid #49b1f5;
+  background-color: rgba(253,253,253,0.729);
   border-radius: 0.6rem;
-  color: #4294e8;
-  font-size: 0.85em;
+  color: #fff;
+  text-shadow: 0 0 4px #0779ef, 0 0 4px #007af7, 0 0 4px #017eff, 0 0 1px #0a0a0a;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -4299,7 +4283,8 @@ _:future,
   transition: all 0.2s ease-in-out;
 }
 .post-meta-categories {
-  color: #4294e8;
+  color: #fff;
+  text-shadow: 0 0 4px #0779ef, 0 0 4px #007af7, 0 0 4px #017eff, 0 0 1px #0a0a0a;
 }
 .loading-bg,
 #loading-box .loading-left-bg,
@@ -5011,7 +4996,7 @@ _:future,
 #rightside {
   position: fixed;
   right: -38px;
-  bottom: 75px;
+  bottom: 0px;
   z-index: 100;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
