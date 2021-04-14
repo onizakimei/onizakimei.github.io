@@ -301,11 +301,14 @@ table>tbody>tr:hover {
     font-display:swap
 }
 span#subtitle {
+    font-display: fallback;
     font-family:FZSJ-MIAOWANG!important
 }
 
 #post-info .post-title {
+  font-display: fallback;
   font-family: FZYouMaoZaiK!important
+
 }
 
 #sidebar #sidebar-menus .menus_items {
@@ -327,8 +330,8 @@ blockquote {
 
 #page-header.nav-fixed #nav {
     background: rgba(255,255,255,0)!important; /*linear-gradient(-225deg, #e3fdf5 0, #ffe6fa 100%)*/
-    backdrop-filter: blur(5px)!important;
-    -webkit-backdrop-filter: blur(5px)!important;
+    backdrop-filter: blur(3px)!important;
+    -webkit-backdrop-filter: blur(3px)!important;
 }
 
 #rightside > div > button, #rightside > div > a {
@@ -1531,8 +1534,8 @@ canvas:not(#ribbon-canvas),
   --tab-botton-bg: #f0f0f0;
   --tab-botton-color: #1f2d3d;
   --tab-button-hover-bg: #dcdcdc;
-  --tab-button-active-bg: rgba(255,255,255,0.7);
-  --card-bg: rgba(255,255,255,0.7);
+  --tab-button-active-bg: rgba(255,255,255,0.75);
+  --card-bg: rgba(255,255,255,0.75);
   --sidebar-bg: #f6f8fa;
   --btn-hover-color: #ff7242;
   --btn-color: #fff;
@@ -3857,7 +3860,7 @@ blockquote footer cite:before {
   }
 }
 #page-header.post-bg {
-  height: 23rem;
+  height: 25rem;
   background-color: rgba(255,255,255,0);
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -3874,7 +3877,7 @@ blockquote footer cite:before {
   bottom: 5rem;
   padding: 0 8%;
   width: 100%;
-  top: 70px;
+  top: 113px;
   text-align: center;
 }
 @media screen and (max-width: 900px) {
@@ -4268,8 +4271,8 @@ _:future,
 }
 .post-meta__tags {
   display: inline-block;
-  margin: 0.4rem 0.4rem 0.4rem 0;
-  padding: 0 0.6rem;
+  margin: 0rem 0.4rem 0rem 0;
+  padding: 0 0.4rem;
   width: fit-content;
   border: 1.5px solid #49b1f5;
   background-color: rgba(253,253,253,0.729);
