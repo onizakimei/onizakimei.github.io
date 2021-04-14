@@ -4271,7 +4271,7 @@ _:future,
   margin: 0.4rem 0.4rem 0.4rem 0;
   padding: 0 0.6rem;
   width: fit-content;
-  border: 2px solid #49b1f5;
+  border: 1.5px solid #49b1f5;
   background-color: rgba(253,253,253,0.729);
   border-radius: 0.6rem;
   color: #fff;
@@ -4996,7 +4996,7 @@ _:future,
 #rightside {
   position: fixed;
   right: -38px;
-  bottom: 0px;
+  bottom: 10px;
   z-index: 100;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
