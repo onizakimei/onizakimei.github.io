@@ -6064,7 +6064,7 @@ details[red] >summary {
   background: #feefee;
 }
 details[open] {
-  border-color: 1px solid rgba(73,177,245,0.678);
+  border-color: rgba(73,177,245,0.678);
 }
 details[open] >summary {
   border-bottom: 1px solid rgba(68,68,68,0.2);
