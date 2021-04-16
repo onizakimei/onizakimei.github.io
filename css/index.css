@@ -5981,7 +5981,7 @@ details {
 }
 details summary {
   cursor: pointer;
-  padding: 1px;
+  padding: 1px 1px 1px 8px;
   margin: -16px;
   border-radius: 4px;
   color: rgba(68,68,68,0.7);
