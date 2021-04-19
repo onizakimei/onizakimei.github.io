@@ -1,0 +1,4 @@
+.tag-cloud-title.is-center= _p('page.tag')
+  |  - 
+  span.tag-amount= site.tags.length
+div!= list_tags(site.tags,{orderby: 'length', order: 'desc', amount: 0,class: {a: 'link', count: 'count'}, style: false, separator: ''})

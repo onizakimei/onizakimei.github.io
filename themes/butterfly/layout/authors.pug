@@ -1,0 +1,54 @@
+extends includes/layout.pug
+
+block content
+  if theme.category_ui == 'index'
+    include ./includes/mixins/post-ui.pug
+    #recent-posts.recent-posts.category_ui   
+      +postUI
+      include includes/pagination.pug  
+  else
+    include ./includes/mixins/article-sort.pug
+    #authors
+      //- for vue
+      if typeof page.authors === "string"
+        .spinner(v-if="!authors.length")
+        .authors-number!="{{authors.length}}"
+        .author-banner!=page.banner
+        ul.author-items
+          li.author-item(v-for="author in authors", :id="author.name")
+            a.author-url(:href="author.url || 'https://zh.moeauthor.org/' + author.name", :title="author.reason", alt='portrait' target='_blank' rel='noopener')
+              figure.author-info
+                img.author-avatar(loading='lazy', :src="author.avatar", :alt="author.name", onerror='this.src=CONFIG.anonymous_image')
+                figcaption.author-name!="{{author.name}}"
+                figcaption.author-from!="{{author.from}}"
+        if !theme.pjax.enable
+          script(src=theme.vendors.vue)
+        script.
+          new Vue({
+            el: "#authors",
+            data: {
+              authors: [],
+            },
+            async mounted() {
+              this.authors = await fetch("#{page.authors}")
+                .then(res => {
+                  return res.json();
+                })
+              if (#{page.random || false}) {
+                this.authors.sort(() => Math.random() - 0.5);
+              }
+            }
+          })
+      else
+        .authors-number!=page.authors.length
+        .author-banner!=page.banner
+        ul.author-items
+          for author in page.authors
+            if !author.url
+              - author.url = 'https://zh.moeauthor.org/' + author.name
+            li.author-item(id=author.name)
+              a.author-url(href=author.url, title=author.reason, alt='portrait' target='_blank' rel='noopener')
+                figure.author-info
+                  img.author-avatar(loading='lazy', src=author.avatar, alt=author.name, onerror='this.src=CONFIG.anonymous_image')
+                  figcaption.author-name!=author.name
+                  figcaption.author-from!=author.from

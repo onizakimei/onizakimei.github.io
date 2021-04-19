@@ -1,0 +1,218 @@
+source
+  |__ css
+     |__ _custom
+        |__ custom.css
+     |__ index.styl
+
+
+/*/表格样式/*/
+.table-wrap {
+  overflow-x: scroll;
+  margin: 0 0 1rem;
+}
+table {
+  display: table;
+  width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+  empty-cells: show;
+}
+ table thead th {
+  font-weight: bold; /*加粗*/
+  text-align: center !important; /*内容居中，加上 !important 避免被 Markdown 样式覆盖*/
+  background: rgba(158,188,226,0.35); /*背景色*/
+}
+
+table th,
+table td {
+  padding: 0.3rem 0rem;
+  border:1px solid var(--smc-secondary,#999);
+  vertical-align: middle;
+}
+
+table tbody tr:nth-child(2n) {
+  background: rgba(158,188,226,0.2); 
+}
+table>tbody>tr:hover {
+  background-color:var(--hty-bg-color,#fcfcfc)
+}
+*::selection {
+  background: #00c4b6;
+  color: #f7f7f7;
+}
+
+/*/表情包/*/
+#bq {
+  display: inline !important;
+  width: 55px !important;
+  vertical-align: bottom!important;
+  margin-left: 3px !important;
+  margin-right: 3px !important;
+}
+
+#ac {
+  display: inline !important;
+  width: 60px !important;
+  vertical-align: bottom!important;
+  margin-left: 3px !important;
+  margin-right: 3px !important;
+}
+
+#footer {
+    background: transparent !important;
+}
+
+.icon {
+   width: 1em; height: 1em!important;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em!important;
+   fill: currentColor!important;
+   overflow: hidden!important;
+}
+
+#page-header.full_page {
+    background: transparent!important;
+}
+
+#page-header #site_social_icons {
+    display: none!important;
+}
+
+#page-header #site-title, #page-header #site-subtitle, #page-header #scroll-down .scroll-down-effects {
+    text-shadow: 1px 1px 4px #005DFF, 0px 0px 4px #000000, 0px 0px 2px #005DFF!important;
+  }
+
+#page-header.full_page #site-info {
+    top: 50%!important;
+}
+
+#page-header #site-title {
+    font-size: 4em!important
+}
+
+@font-face {
+    font-family:'FZYouMaoZaiK';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/FZYouMaoZaiK.TTF');
+    font-display:swap
+}
+@font-face {
+    font-family:'FZSJ-LAOXLDM';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/FZSJ-LAOXLDM.TTF');
+    font-display:swap
+}
+@font-face {
+    font-family:'FZSJ-MIAOWANG';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/FZSJ-MIAOWANGT.TTF');
+    font-display:swap
+}
+@font-face {
+    font-family:'siyuanheiti';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/SourceHanSansCN-Regular-2.otf');
+    font-display:swap
+}
+@font-face {
+    font-family:'华文行楷';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/HuaWenXingKai-1.ttf');
+    font-display:swap
+}
+@font-face {
+    font-family:'FZLTHJ';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/FZLTHJ.OTF');
+    font-display:swap
+}
+span#subtitle {
+    font-display: fallback;
+    font-family:FZSJ-MIAOWANG!important
+}
+
+#post-info .post-title {
+  font-display: fallback;
+  font-family: FZYouMaoZaiK!important
+
+}
+
+#sidebar #sidebar-menus .menus_items {
+    text-align: center!important;
+    font-family:FZYouMaoZaiK!important;
+    font-size: 20px!important;
+}
+
+#article-container.post-content h2 {
+    font-family: 'FZSJ-MIAOWANG'!important;
+}
+
+blockquote {
+    background: linear-gradient(
+-225deg
+, #e3fdf5 0, #ffe6fa 100%)!important;
+    border-radius: 1em!important;
+}
+
+#page-header.nav-fixed #nav {
+    background: rgba(255,255,255,0)!important; /*linear-gradient(-225deg, #e3fdf5 0, #ffe6fa 100%)*/
+    backdrop-filter: blur(3px)!important;
+    -webkit-backdrop-filter: blur(3px)!important;
+}
+
+#rightside > div > button, #rightside > div > a {
+    background-color: transparent!important;
+    color: #649cff!important;
+    backdrop-filter: blur(5px)!important;
+    box-shadow: -1px -1px 3px 2px #00000017!important;
+}
+#recent-posts > .recent-post-item >.recent-post-info > .content {
+    background: linear-gradient(
+-225deg
+, #e3fdf59e 0, #ffe6fa7a 100%)!important;
+}
+.layout > div:first-child:not(.recent-posts) {
+    backdrop-filter: blur(5px)!important;
+    -webkit-backdrop-filter: blur(5px)!important;
+}
+#recent-posts > .recent-post-item >.recent-post-info > .article-title {
+    color: #5393dc!important;
+}
+#article-container.post-content h1:before, #article-container.post-content h2:before, #article-container.post-content h3:before, #article-container.post-content h4:before, #article-container.post-content h5:before, #article-container.post-content h6:before {
+    color: #49b1f5!important;
+    font-family: 'iconfont'!important;
+    content: '\e7cd'!important;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+width: 8px!important;
+height: 8px!important;
+}
+
+::-webkit-scrollbar-track {
+background-color: rgba(73, 177, 245, 0.2)!important;
+border-radius: 2em!important;
+}
+
+::-webkit-scrollbar-thumb {
+background-color: #49b1f5!important;
+background-image: -webkit-linear-gradient(
+45deg,
+rgba(255, 255, 255, 0.4) 25%,
+transparent 25%,
+transparent 50%,
+rgba(255, 255, 255, 0.4) 50%,
+rgba(255, 255, 255, 0.4) 75%,
+transparent 75%,
+transparent
+)!important;
+border-radius: 2em!important;
+}
+
+::-webkit-scrollbar-corner {
+background-color: transparent!important;
+}
+
+::-moz-selection {
+color: #fff!important;
+background-color: #49b1f5!important;
+}
+
+#recent-posts > .recent-post-item >.recent-post-info > .content {
+    -webkit-box-orient: inherit!important;
+}

@@ -1,0 +1,49 @@
+.tag-cloud
+  &-list
+    a
+      display: inline-block
+      padding: 0 .4rem
+      transition: all .3s
+
+      &:hover
+        color: $text-hover !important
+        transform: scale(1.1)
+
+      +maxWidth768()
+        zoom: .85
+
+  &-title
+    font-size: 2.57em
+    font-family: 'FZSJ-MIAOWANG'
+
+    +maxWidth768()
+      font-size: 2em
+      font-family: 'FZSJ-MIAOWANG'
+
+.link {
+  display: inline-block;
+  margin: .4rem 0.2rem 0;
+  padding: 0.05rem 0.15rem 0.1rem 0.4rem;
+  border-radius: .3rem;
+  color: $light-blue;
+  font-size: 1.1em;
+  transition: all .3s;
+  background: linear-gradient(747deg, #e3fdf5 0, #ffe6fa 100%);
+  box-shadow: -1px -1px 5px 2px #aedafb87;
+}
+
+.count {
+    color: gray;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:5px;
+    padding-left:5px;
+    font-size: .85em;
+    background-color: rgba(255,255,255,0.6);
+    border-radius: .2rem;
+    margin: .4rem 0rem .4rem .4rem;
+}
+
+.count:before {
+  content: "×";
+}
