@@ -709,7 +709,7 @@ preloader:
   enable: true # true|false
   load_color: '#ffffff' # '#37474f'
   load_style: image # # spinner-box|wizard|ironheart|scarecrow|image
-  load_image: /img/jie.gif # url
+  load_image: /img/shelter.gif # url
 
 # aside (側邊欄)
 # --------------------------------------
@@ -923,6 +923,7 @@ inject:
      - '<style type="text/css">#toggle-sidebar {bottom: 80px}</style>' #aplayer吸底
      - '<style type="text/css">.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body{left:-66px!important}.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover{left:0!important}</style>' #aplayer侧边栏
      - '<style type="text/css">.aplayer.aplayer-fixed .aplayer-body{max-width: 325px!important}</style>' #aplayer宽度
+     - '<style type="text/css">.aplayer.aplayer-fixed{max-width: 325px!important}</style>' #aplayer宽度
   bottom:
     # - <script src="xxxx"></script>
     - <script async data-pjax src="/js/randombg.js"></script>
