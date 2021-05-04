@@ -626,18 +626,18 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: true
+  enable: false
   zIndex: 
     - "rgba(255,182,185,.9)"
     - "rgba(250,227,217,.9)"
     - "rgba(187,222,214,.9)"
     - "rgba(138,198,209,.9)"
-  mobile: true
+  mobile: false
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
@@ -702,7 +702,6 @@ subtitle:
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
     - 愿你被这个世界温柔以待，躲不过的惊吓都只是一场虚惊，收到的欢喜从无空欢喜。《七根凶简》
-    - 我的车！岳峰的车！《怨气撞铃》
     - 刚开始，时间那么多，未来那么长，大家挤簇成潮，卷成大浪，声势浩大，一起向着堤岸出发，欢声笑语，何等热闹。渐渐地，有人消于半空，有人被堤岸打回，有人被砂石汲没，浪头渐小，浪势渐消。《龙骨焚箱》
 # Loading Animation (加載動畫)
 preloader:

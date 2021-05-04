@@ -37,3 +37,13 @@ date: 2021-04-26 00:00:00
 求婚也很可爱。没有浪漫的描写，没有激动不安的情绪，不如说是意料之外的不小心。但一切都发生得那么自然，就连男主的懊恼跟女主的打趣都那么生动。<font size=3.5>但是我不剧透！都写在番外了还剧透就没惊喜了！</font>
 
 剧情都是日常也没什么好剧透的了。<font size=5>最后我还是忍不住吐槽一下为什么标题这么油腻……明明剧情很清爽的！不要被劝退！</font>
+
+![](https://wx1.sinaimg.cn/mw690/0069kFhhly1gpxcsxghhqj30n01ds7wi.jpg)
+![](https://wx1.sinaimg.cn/mw690/0069kFhhly1gpxctbbzacj30n01ds7wi.jpg)
+![](https://wx1.sinaimg.cn/mw690/0069kFhhly1gpxd6n5u0ij30n01ds7wi.jpg)
+![](https://wx1.sinaimg.cn/mw690/0069kFhhly1gpxd71ercfj30n01ds4qq.jpg)
+![](https://wx4.sinaimg.cn/mw690/0069kFhhly1gpxd78wdqej30n01ds1kx.jpg)
+![](https://wx3.sinaimg.cn/mw690/0069kFhhly1gpxd7gah1pj30n01ds1kx.jpg)
+![](https://wx3.sinaimg.cn/mw690/0069kFhhly1gpxd7mli3nj30n01dsno0.jpg)
+![](https://wx2.sinaimg.cn/mw690/0069kFhhly1gpxd7t78roj30n01ds1ki.jpg)
+![](https://wx4.sinaimg.cn/mw690/0069kFhhly1gpxd804inmj30n01ds1kx.jpg)

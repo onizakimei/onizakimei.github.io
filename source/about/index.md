@@ -3,17 +3,15 @@ title: 自我介绍
 date: 2020-12-27 01:46:19
 ---
 
-~~好几百年没写过正儿八经的自我介绍好羞耻~~
+网名是<font color=red>**鬼冥**</font>~~不要问为什么那么中二毕竟小学起的~~
 是社畜。
 为了防止{% psw 渣浪和谐网盘抽风 %}数据丢失于是建了个博客。主要写[书评](/categories/扫文/)和[汉化](/categories/汉化/)，不过书评占多数所以善用目录。
 
 ## 虚拟形象
 用[custom cast](https://customcast.jp/)捏的，也就平时和基友玩玩偶尔自拍。![](/img/3.jpg)
 是小男孩，虽然不知道为什么男装也会微妙有胸但是是小男孩！兽耳和异瞳都是性癖，挑染和脸纹是我永不灭却的中二之魂的证明（？）没有私设（~~都不出道我搞什么私设~~）
-<img src="/img/IMG_4543.PNG" style="display:inline"><img src="/img/IMG_4545.PNG" style="display:inline">
-
-最近新上的衣服简直是为我量身定做！大正+短裤+靴子+**背后居然有个‘冥’字**！在我的性癖上疯狂蹦迪！（~~我好可爱！！！~~）
 <img src="/img/IMG_4539.PNG" style="display:inline"><img src="/img/IMG_4541.PNG" style="display:inline">
+
 ## 安利
 - <font color=LightCoral>喜欢的**作者**</font>是[尾鱼](https://m.jjwxc.net/wapauthor/387337)，文笔牛批！设定牛批！感情戏也很可！就算不怎么看小言的人也完全可以当普通的灵异小说看！<font size=1>虽然没真的灵异小说那么恐怖啦，本质还是小言</font>
 - <font color=LightCoral>喜欢的**唱见**</font>是[Yukiri](https://space.bilibili.com/512480)，少年音很可！2020年突然转生成Vup~~只是披了个皮~~但本人过于佛系基本不整活，偶尔耿直的发言令人生草<img src="/img/1.jpg" style="zoom:60%">
@@ -53,7 +51,7 @@ date: 2020-12-27 01:46:19
 
 ## 在玩的手游
 - 明日方舟（官服<font color=red>鬼冥#8170</font> 我永远爱塔防！）
-![](/img/IMG_5656.JPG")
+![](/img/IMG_5656.JPG)
 已A：
 - 梦100（真情实感入坑四年多，都是钱啊）
 - 梦间集（前面太肝了…）
