@@ -25,11 +25,11 @@
   margin: .4rem 0.2rem 0;
   padding: 0.05rem 0.15rem 0.1rem 0.4rem;
   border-radius: .3rem;
-  color: $light-blue;
   font-size: 1.1em;
   transition: all .3s;
-  background: linear-gradient(747deg, #e3fdf5 0, #ffe6fa 100%);
-  box-shadow: -1px -1px 5px 2px #aedafb87;
+  width: 8em;
+  height: 35px;
+  text-align: center;
 }
 
 .count {
@@ -39,11 +39,66 @@
     padding-right:5px;
     padding-left:5px;
     font-size: .85em;
-    background-color: rgba(255,255,255,0.6);
+    background-color: rgba(255,255,255,0.45);
     border-radius: .2rem;
-    margin: .4rem 0rem .4rem .4rem;
+    margin: .4rem 0.1rem .4rem .4rem;
 }
 
 .count:before {
   content: "×";
 }
+
+.rainbow {
+  text-align: center;
+  
+    a:nth-child(10n+1) {
+        background-color: rgba(255,204,255,0.6);
+        color: rgb(255 149 255);
+    }
+
+    a:nth-child(10n+2) {
+        background-color: rgba(238,204,255,0.6);
+        color: rgb(219 152 253);
+    }
+
+    a:nth-child(10n+3) {
+        background-color: rgba(221,204,255,0.6);
+        color: rgb(183 153 243);
+    }
+
+    a:nth-child(10n+4) {
+        background-color: rgba(204,204,255,0.6);
+        color: rgb(155 155 245);
+    }
+
+    a:nth-child(10n+5) {
+        background-color: rgba(187,204,255,0.6);
+        color: rgb(135 166 255);
+    }
+
+    a:nth-child(10n+6) {
+        background-color: rgba(170,204,255,0.6);
+        color: rgb(111 169 255);
+    }
+
+    a:nth-child(10n+7) {
+        background-color: rgba(153,204,255,0.6);
+        color: rgb(98 176 253);
+    }
+
+    a:nth-child(10n+8) {
+        background-color: rgba(136,204,255,0.6);
+        color: rgb(92 185 255);
+    }
+
+    a:nth-child(10n+9) {
+        background-color: rgba(119,204,255,0.6);
+        color: rgb(47 177 255);
+    }
+
+    a:nth-child(10n+10) {
+        background-color: rgba(102,204,255,0.6);
+        color: rgb(0 151 226);
+    }
+}
+

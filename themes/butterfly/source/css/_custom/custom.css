@@ -137,15 +137,20 @@ span#subtitle {
     font-size: 20px!important;
 }
 
-#article-container.post-content h2 {
+#article-container.post-content h2, #article-container.post-content h3, #article-container.post-content h4 {
     font-family: 'FZSJ-MIAOWANG'!important;
 }
 
+#article-container.post-content h3:before, #article-container.post-content h4:before {
+    margin-left: -1.2em!important;
+    font-size: 1.2em!important;
+}
 blockquote {
-    background: linear-gradient(
--225deg
-, #e3fdf5 0, #ffe6fa 100%)!important;
-    border-radius: 1em!important;
+    background: url(/img/bg.jpg)!important;
+    background-size: cover!important;
+    border-bottom: ridge!important;
+    border-radius: 1rem!important;
+    background-position: center!important;
 }
 
 #page-header.nav-fixed #nav {
@@ -160,11 +165,7 @@ blockquote {
     backdrop-filter: blur(5px)!important;
     box-shadow: -1px -1px 3px 2px #00000017!important;
 }
-#recent-posts > .recent-post-item >.recent-post-info > .content {
-    background: linear-gradient(
--225deg
-, #e3fdf59e 0, #ffe6fa7a 100%)!important;
-}
+
 .layout > div:first-child:not(.recent-posts) {
     backdrop-filter: blur(5px)!important;
     -webkit-backdrop-filter: blur(5px)!important;
@@ -172,11 +173,7 @@ blockquote {
 #recent-posts > .recent-post-item >.recent-post-info > .article-title {
     color: #5393dc!important;
 }
-#article-container.post-content h1:before, #article-container.post-content h2:before, #article-container.post-content h3:before, #article-container.post-content h4:before, #article-container.post-content h5:before, #article-container.post-content h6:before {
-    color: #49b1f5!important;
-    font-family: 'iconfont'!important;
-    content: '\e7cd'!important;
-}
+
 
 /* 滚动条 */
 ::-webkit-scrollbar {

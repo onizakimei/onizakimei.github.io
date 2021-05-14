@@ -41,3 +41,7 @@ html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside
     include ./rightside.pug
     !=partial('includes/third-party/search/index', {}, {cache: true})
     include ./additional-js.pug
+
+    link(rel='stylesheet', type='text/css', href='//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css')
+    script(src='//lib.baomitu.com/jquery/3.5.1/jquery.min.js')
+    script#myhk(src='https://myhkw.cn/api/player/1620179462119', key='1620179462119', m='1')

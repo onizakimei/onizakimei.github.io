@@ -1,6 +1,7 @@
 #local-search
   .search-dialog
     animation: titlescale .5s
+    
 
     .local-search-box
       margin: 0 auto
@@ -14,12 +15,14 @@
         border: 2px solid $search-color
         border-radius: 2rem
         background: var(--search-bg)
+        background-size: contain
         color: var(--search-input-color)
         -webkit-appearance: none
 
     .local-search__hit-item
       position: relative
       padding-left: 1.2rem
+      text-shadow: 1px 1px 1px #ffffff
       line-height: 1.7
 
       &:hover

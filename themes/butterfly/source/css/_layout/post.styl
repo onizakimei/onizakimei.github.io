@@ -13,12 +13,12 @@ beautify()
       padding-left: unit(fontsize + .6, 'rem')
 
   h1,
-  h2,
   h3,
   h4,
   h5,
   h6
     transition: all .2s ease-out
+    border-bottom: dotted #49b1f59c
 
     &:before
       position: absolute
@@ -28,16 +28,49 @@ beautify()
       line-height: 1
       transition: all .2s ease-out
       @extend .fontawesomeIcon
+      font-family: "iconfont"
 
     &:hover
       &:before
         color: $light-blue
+  h2
+    position: relative;
+    display: inline-block;
+    margin-left: -65px;
+    padding: 7px 11px 7px 32px;
+    border-color: #8aa9ae;
+    border-radius: 0 4px 4px 0;
+    background-color: #59bee9;
+    box-shadow: 1px 1px 3px 0px #00000075
+    font-weight: 400;
+    color: #f8f8f8;
+    font-size: 1.7em;
+    line-height: 1;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    +maxWidth768()
+      margin-left: -42px
+
+    &:after
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 0;
+      height: 0;
+      border-top: 0 solid transparent;
+      border-right-width: 1em;
+      border-right-style: solid;
+      border-right-color: inherit;
+      border-bottom: 1em solid transparent;
+      border-left: 0 solid transparent;
+      content: "";
+
+      +maxWidth768()
+        display: none
 
   h1
     headStyle(1)
-
-  h2
-    headStyle(.9)
 
   h3
     headStyle(.8)

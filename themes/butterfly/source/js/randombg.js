@@ -6,9 +6,7 @@ var backimg =[
   "url(/img/bg/04.jpg)",
   "url(/img/bg/05.jpg)",
   "url(/img/bg/06.jpg)",
-  "url(/img/bg/07.jpg)",
-  "url(/img/bg/08.jpg)",
-  "url(/img/bg/09.jpg)"
+  "url(/img/bg/07.jpg)"
 ];
 //获取背景图片总数，生成随机数
 var bgindex =Math.ceil(Math.random() * (backimg.length-1));
