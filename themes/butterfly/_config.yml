@@ -79,7 +79,7 @@ wowjs:
 
 menu:
    主页: / || icon-zhuye
-   时间轴: /archives/ || icon-timeline
+   时光轴: /archives/ || icon-timeline
    标签: /tags/ || icon-biaoqian
    分类: /categories/ || icon-wenjianjia1
   # List||fas fa-list:
@@ -87,6 +87,7 @@ menu:
   #   Movie: /movies/ || fas fa-video
    关于我: /about/ || icon-ziwojieshao
    作者安利: /slides/author.html || icon-zuozhe
+   哔哔: /bb/ || icon-maoliang
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -492,7 +493,7 @@ crisp:
 # --------------------------------------
 footer:
   owner:
-    enable: false
+    enable: true
     since: 2020
   custom_text: <a href="https://beian.miit.gov.cn/"><img class="icp-icon"><span>备案号：粤ICP备2020142692号</span></a>
   copyright: true # Copyright of theme and framework
@@ -577,8 +578,8 @@ yandex_site_verification:
 #   button_hover: "#FF7242"
 #   text_selection: "#00c4b6"
 #   link_color: "#99a9bf"
-   meta_color: "#858585"
-   hr_color: "##99a9bf"
+#   meta_color: "#858585"
+#   hr_color: "##99a9bf"
 #   code_foreground: "#F47466"
 #   code_background: "rgba(27, 31, 35, .05)"
 #   toc_color: "#00c4b6"
@@ -595,8 +596,8 @@ index_top_img_height:
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
 # default - same as archives UI 默認跟archives頁面UI一樣
-category_ui: # 留空或 index
-tag_ui: # 留空或 index
+category_ui: default # 留空或 index
+tag_ui: default # 留空或 index
 
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
@@ -634,7 +635,7 @@ canvas_fluttering_ribbon:
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
   enable: false
-  color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  color: '0,0,0' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 99 # the number of lines, default: 99.
@@ -645,7 +646,7 @@ canvas_nest:
 activate_power_mode:
   enable: true
   colorful: true # open particle animation (冒光特效)
-  shake: false #  open shake (抖動特效)
+  shake: true #  open shake (抖動特效)
   mobile: true
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
@@ -707,7 +708,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: true
+  enable: false
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
@@ -765,9 +766,9 @@ aside:
     expand: false # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
-    enable: false
-    limit: 40 # if set 0 will show all
-    color: false
+    enable: true
+    limit: 30 # if set 0 will show all
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
@@ -781,6 +782,7 @@ aside:
     post_count: true
     last_push_date: true
     sort_order: # Don't modify the setting unless you know how it works
+    
 
 # busuanzi count for PV / UV in site
 # 訪問人數

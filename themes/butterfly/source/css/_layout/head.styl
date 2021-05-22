@@ -68,26 +68,28 @@
       color: var(--light-grey)
       font-size: 30px
 
-  .kumo {
-    display: flex;
-    width: 100%;
-    position: absolute;
-    bottom: 13px;
-    left: 0;
-    right: 0;
-  }
-  .cloud {
-    display: flex;
-    width: 100%;
-    position: absolute;
-    bottom: -86px;
-    left: 0;
-    right: 0;
+  .kumo 
+    display: none
 
-    @media (max-width: 768px) {
-     bottom: -10px;
-    }
-  }
+    +maxWidth768()
+      display: flex
+      width: 100%
+      position: absolute
+      bottom: 13px
+      left: 0
+      right: 0
+
+  .cloud
+    display: none
+    
+    +maxWidth768()
+      display: flex;
+      width: 100%;
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+      right: 0;
+
   .nami {
     display: flex;
     position: relative;
@@ -96,10 +98,6 @@
     margin-bottom: -.6875rem;
     min-height: 3.125rem;
     max-height: 9.375rem;
-
-    @media (max-width: 768px) {
-      height: 10vh;
-    }
   }
 
   .nami2>use {
@@ -149,8 +147,6 @@
 
     +maxWidth768()
       height: 18rem
-      backdrop-filter: blur(2px)
-      -webkit-backdrop-filter: blur(2px)
 
   #page-site-info
     position: absolute

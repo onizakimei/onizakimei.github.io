@@ -21,4 +21,4 @@ abbrlink: 64434
 尤其是最后一章番外，说实话看到采访女儿还在想这番外过于丰富，剧情点到为止完结即可，写太多反而会觉得无味。再一看男主老了病情复发想念女主，哇我那好不容易止住的眼泪又一次遭不住了[泪]为什么小说要把人生的终点写出来呢，就停在年轻时不好吗[泪]
 ![](https://wx4.sinaimg.cn/mw690/0069kFhhgy1g3ta5k90dnj30yi1pcqv5.jpg)
 ![](https://wx4.sinaimg.cn/mw690/0069kFhhgy1g3ta5m7dczj30yi1pcqv5.jpg)
-![]https://wx4.sinaimg.cn/mw690/0069kFhhgy1g3ta5ojvqzj30yi1pcnpd.jpg)
+![](https://wx4.sinaimg.cn/mw690/0069kFhhgy1g3ta5ojvqzj30yi1pcnpd.jpg)
