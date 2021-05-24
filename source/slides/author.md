@@ -21,9 +21,9 @@ slide:
 ## 碎碎念
 
 其实也不是安利的作者每篇文都看过，但起码看过两篇以上都很喜欢就会加入收藏。
-有些文很早之前看的，当时没140字概括的习惯，纯感想，懒得重写了将就看吧<img src="/ac/07.png" id="ac">
+有些文很早之前看的，当时没140字概括的习惯，纯感想，懒得重写了直接贴文案<img src="/ac/07.png" id="bq">
 
-> 作者页面只贴我看过的文，其他没看过的作品可看作者专栏。
+> 只写我看过的文。
 小说顺序随机摆，系列作会放一起。
 
 ---
@@ -36,8 +36,8 @@ slide:
 ⭐⭐ 小推
 ⭐ 无推
 
-> 左右滑动切换作者，上下滑动切换小说介绍。
-作者页面戳作者跳转专栏，小说页面戳标题跳转剧透。
+> **左右**滑动切换作者，**上下**滑动切换小说
+作者页面戳作者跳转专栏，小说页面戳标题跳转剧透
 
 ---
 
@@ -47,7 +47,6 @@ slide:
 
 擅长写悬疑，世界观的细节设定到尾，感情戏也好磕。
 女主都很勇，吹爆我鱼总！
-> 鱼总的文剧透都乱七八糟的，纯贴文案。
 
 <div id="left">
 
@@ -73,6 +72,7 @@ slide:
 
 ### [怨气撞铃](http://www.jjwxc.net/onebook.php?novelid=1361427)
 ⭐⭐⭐⭐⭐
+
 > 一串只能被死人怨气撞响的风铃
 一段永远看不到终点的漂泊旅途
 
@@ -141,7 +141,7 @@ slide:
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
 <div id="text">
 
-### [西出玉门](有人说，你在深夜沙暴里隐约看到的黄土方城，其实是玉门关的鬼魂。)
+### [西出玉门](http://www.jjwxc.net/onebook.php?novelid=3035707)
 ⭐⭐⭐⭐⭐
 > 有人说，你在深夜沙暴里隐约看到的黄土方城，其实是玉门关的鬼魂。
 
@@ -476,7 +476,7 @@ slide:
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
 <div id="text">
 
-### [我能摸摸你的财神光环吗？](/post/47283/)
+### [我能摸摸你的财神光环吗？](/post/48480/)
 ⭐
 > 从小生活优渥的女主突然变得很倒霉，只有在碰到头上有财神光环的男主时才能消掉一天的霉运。大家包括男主都误以为女主在追男主，男主后来才知道自己有财神光环这个设定，并且能驱散他人的霉运，唯独自己的人生过得凄惨，标准的损己利人。男女主组成乐于助人小队，在解决事件的同时也慢慢牵连出正邪势力的对抗。
 
@@ -486,9 +486,9 @@ slide:
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
 <div id="text">
 
-### [眼睛成精了以后](/post/47283/)
+### [眼睛成精了以后](/post/16316/)
 ⭐⭐⭐⭐⭐
-> 女主聪明却不求上进，和差班的同学一起浑浑噩噩地混日子。就在新学期班里天降行为古怪的代班班主任，做事出其不意却让原本一盘散沙的班级团结起来成功逆袭。女主发现班主任和新来的转学生的名字与一本旧书的角色重名，在戳破了他们的秘密的同时也被卷进奇妙的事件中。
+> 女主天生盲人，男主在出了一场车祸后意外寄宿到女主的眼睛里并能与她对话，心疼女主的男主决定帮女主“看”世界，教会她打字做饭，渐渐地男主在情绪激动的时候可以给女主脑内传达画面，在女主入睡后还能给她造梦，后来男主甚至能够离开“眼睛”变成“空气”。在一次男主离开“眼睛”之后，女主被别的魂体所附身，两人因此得知女主的招魂体质。男主回到原来的身体后进一步调查真相，发现一切的起因与两人的父母有关。
 
 </div>
 
@@ -515,13 +515,144 @@ slide:
 
 <div id="right">
 
+- 灼灼烈日
 - 中二观察实录
 - 深藏不露
 - 最佳二传
 - 力荐河山
-- 灼灼烈日
 - 在下是一条公狗
 </div>
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [第一道派魔导师！](/post/41633/)
+⭐
+> 道士女主穿越到魔法世界，被迫接受神的旨意和小伙伴们一起拯救无处可归的亡灵法师们。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [第一战场指挥官！ ](/post/54303/)
+⭐⭐⭐⭐⭐
+> 简单概括一下就是将军女主穿越到未来从小兵一路路爬到第一指挥官的爽文。
+女主几乎战无不胜，前半部分女主还只是名新生，但在训练中就展现出超凡的实力，怼教官怼得很霸气，在一次次的训练中结识到的小伙伴们在后半部分也随着女主一起奔赴战场，结成往后赫赫有名的六军小队。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [有朝一日刀在手](/post/28195/)
+⭐⭐⭐⭐⭐
+> 出生于无人星球的女主为了招募子民重建星球，前往联盟参加比赛打响知名度。凭借自己的武学天赋以及不走寻常路的招数，在初赛当天一鸣惊人，一路逆袭，收揽无数脑残粉，结识各路大佬，最终成功招募到精英国民，让荒芜星成为人声鼎沸的星球。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [总有辣鸡想带我飞](/post/19786/)
+⭐⭐⭐⭐⭐
+> 女主穿越到未来打全息网游，把新区搅得鸡飞狗跳，实力高强却因嘴欠拉了一大波仇恨，男主看上她的天赋把她拉进正缺人的战队，女主在夺冠之路上携同队友们飞快地成长。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [凶案现场直播](/post/12339/)
+⭐⭐⭐⭐⭐
+> 高智商女主参加全息角色扮演破案游戏，游戏公司小公子男主作为监测员陪她一起进去。每个案子都有原型且有联系，而案件的嫌疑人则是女主的学生。女主在游戏里寻找能证明学生清白的线索，也终于挖出真凶，在现实里终于还学生一个清白。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [强势逆袭](/post/54168/)
+⭐⭐⭐⭐⭐
+> 虽然是单元文但我要单独拎出来说！第一单元《我爱学习》里的女主穿越到不受宠的大女儿身上，果断和家人断绝关系，靠着自身的气势和才智在学渣的仰慕中成为大佬考上省状元，还顺手带着小伙伴们一起飞。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [赚钱真的好难哦！](/post/8633/)
+⭐
+> 女主是只养猪大妖，生意惨淡的女主在问遍了群里小伙伴的意见后决定去凡间开餐厅赚钱。凭着不同于凡猪的味道以及女主高超的烹饪技巧餐厅迅速蹿红，期间有不少人不以为然，最后全都惨遭打脸。贫穷的小伙伴们陆续跑来打杂，高颜值的店员引来越来越多的客户。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [灼灼烈日](/post/45934/)
+⭐⭐⭐⭐⭐
+> 女主高三时与父亲后妈断绝关系，正当走投无路之际收到了舅舅的来信，两人过上了清贫却满足的生活。男主发现这个新同桌耿直有趣，不自觉关注她，总是不动声色地照顾女主。班主任同学也都是温暖的人，一群高中生嘻嘻哈哈地度过高三。是本巨甜无比的校园文。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [中二观察实录](/post/6068/)
+⭐⭐⭐⭐⭐
+> 女主在加班时突然穿越回高三，后续展开却与记忆中的不同，记忆中的高三充满诸多遗憾，这里的高三虽然每天都鸡飞狗跳但又肆意快活。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [深藏不露](/post/37130/)
+⭐⭐⭐⭐⭐
+> 女主自幼在边关长大，为探望祖母回京，谁知却并不遭待见，还莫名多了一桩亲事。男女主意外灵魂互换，发现对方就是自己的成亲对象，也曾有过一面之缘。一个会文一个会武，互换后带来的反差令众人惊艳不已，也因此闹出许多哭笑不得的事情。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [最佳二传](/post/24880/)
+⭐⭐⭐⭐⭐
+> 男主小时候把女主带入排球的世界，后来分开多年再次重逢，女主转进了男主的学校。女主个子不高，却是技术型全能选手，男主把她介绍进省队，开启了女主的职业之路。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [力荐河山](/post/2153/)
+⭐
+> 不知道怎么剧透。腿毛的文依旧没有感情戏，女主女扮男装，甚至到了结局除了男主外大家都不知道女主是女的。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [在下是一条公狗](/post/48633/)
+⭐
+> 女主是道家人却没法力，后来去做了打假记者，男主是她的大师兄兼死对头，某天女主突然变成一条公狗被男主捡回家，女主以为自己很机智地伪装是一条狗，孰知男主早就知道是她并看她蠢样偷着乐。
+
 </div>
 
 ---
@@ -544,6 +675,75 @@ slide:
 
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [读心术](/post/37695/)
+⭐⭐⭐⭐⭐
+> 很多年以后，沈易在枕边告诉苏棠，第一次见她时就觉得眼前一亮，那天她穿着一条明黄的裙子，满面红光，仿佛是从日本动画里走出来的一样。
+　　苏棠：“哪部动画？”
+　　沈易眉眼含笑，温柔地用手语比出了那部动画的中文译名
+　　——《宠物小精灵》
+　　苏棠：“……离婚！”
+　　沈易赶忙追上一句
+　　——电力十足。
+　　苏棠：“……不离了。”
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [七日](/post/35553/)
+⭐⭐⭐⭐⭐
+> 女主是做账的，在7.31找男主要尾款回去的路上遇难坠河，一觉醒来却是8.2，和男主前往一栋别墅，失去了有关8.1的记忆；接着第二天又跳到8.6，莫名和男主一起逃难；第三天跳回8.1……剧情讲述女主利用时间跳跃和男主揪出幕后凶手，总之充满刺激悬疑脑洞大。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [皇城探事司（坑）](/post/59425/)
+⭐⭐⭐⭐⭐
+> 女主有辣——么可爱（比划）！女主是个小乞丐儿，男主为皇帝办事恰好需要一个幌子就找上了女主，投喂了女主好几个月，实心眼的女主就觉得世上怎么会有辣么善良温柔和蔼可亲的大人，于是就赴汤蹈火在所不辞，由于太实诚了男主经常被弄得哭笑不得。
+**截至目前2021年5月24日依旧没有更新的迹象**
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [仵作娘子](/post/54742/)
+⭐⭐⭐
+> 人人都告诉楚楚，作为一个姑娘家，汉子和案子不可得兼！楚楚小嘴一撅，谁说的，推倒执掌刑狱的安王爷不就什么都有啦！王爷缺人查案子，楚楚缺人当汉子，王爷不嫌楚楚出身低微脾气直，楚楚不嫌王爷腹黑体弱规矩多，很好，搞定，齐活儿！
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### 名捕夫人
+⭐
+> 景四公子美好婚后生活的第一天，是从抄《列女传》开始的。景四公子学问不济，出息浅薄，毕生的追求就是一个色香味俱全的媳妇。谁知一朝媳妇到手，景四公子却无从下口。为了把到手的媳妇吃进嘴里，景四公子什么都干得出来…查案？媳妇行，他就行，不行也得行！
+剧透：这是一个非典型父母官历尽千难万险不惜坑蒙拐骗拿下御姐媳妇的HE故事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [毒舌王爷傲娇妃](/post/65205/)
+⭐⭐⭐
+> 虽然名字是这样，但男主不毒舌（顶多把人憋到没话讲）女主也不傲娇。男主体弱多病目不能视，女主脾气暴躁却又直白是个穿越的。女主对男主从一开始的同情到后来又爱又心疼，男主对女主从一开始的警惕到后来的依赖。双甜宠。
+
+</div>
+
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
@@ -553,19 +753,90 @@ slide:
 
 <div id="left">
 
-- 周礼记
-- 你还知道回来啊
-- 明明就只喜欢你
-- 向烤肉饭致敬
-
+- 小时不识月
+- 撸猫吗
+- 今天也在努力变得不喜欢他！
 </div>
 
 <div id="right">
 
+- 周礼记
+- 你还知道回来啊
 - 向熊孩子致敬
-- 小时不识月
-- 撸猫吗
-- 今天也在努力变得不喜欢他！
+- 向烤肉饭致敬
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [小时不识月](/post/57838/)
+⭐⭐⭐
+> 女主有通感症，在男主搬到她隔壁后女主惊喜地发现男主是唯一一个毫无异味的人，两人一个是新手律师一个是原检察官，因案子产生多次交集，男女主相处自然，交往后更爱撒狗粮。以女主成长为主感情戏为辅的小甜文。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [撸猫吗](/post/21301/)
+⭐⭐
+> 男主暗恋女主不敢说，恰好女主所在的公司需要机械人才就招了男主，男主才知道女主原来是暗访记者，软萌甜的她其实脾气暴躁整天丧丧的，但男主还是好喜欢她。后来两人同居一起出行任务，女主越看越觉得这个脾气乖顺的男孩子很顺眼，于是主动撩着撩着就在一起了。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [今天也在努力变得不喜欢他！](/post/35616/)
+⭐⭐⭐⭐⭐
+> 男女主青梅竹马双向暗恋，直到大学之前都还形影不离，但上了大学女主不知道为什么突然要和男主划开距离，男主不知所措只能一如既往地对女主好，女主对男主毫无抵抗力，暗恼自己怎么一天比一天更喜欢他。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [周礼记](/post/56767/)
+⭐
+> 某年圣诞节，跑了朋友、丢了工作的周意满把李重年捡回去，想养好了当小白脸赏景看，谁知道李小爷摇身一变做金主，带着一肚子的不可告人，对周意满天罗地网布起局来。
+又某年圣诞节，周意满的儿子翻出了她的日记，指着上面的李重年语录问她怎么读。周意满看完一阵脱力，因为上面很混蛋的写了一句：天底下数我最喜欢你，其他的男人都不是好东西。
+其实就是两个各怀鬼胎的同居人，守着自己的小秘密，互相挖坑勾引最后埋到一起的小故事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [你还知道回来啊](/post/47245/)
+⭐
+> 男女主青梅竹马，互相喜欢，结果男主却在女主告白之后出国了（为了能配得上女主），三年后男主成为知名乐队主唱回国追女主，女主也没矜持，反正两人互宠秀恩爱，告没告白没差。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [向熊孩子致敬](/post/31600/)
+⭐⭐⭐⭐⭐
+> 姐弟恋，男主是明星，女主是新助理，男主熊孩子一个，大家都拿他没办法，但是女主气场太强大了男主不得不服从，再加上男主刚成年，虽然在外人眼里挺成熟的，但在女主面前爱哭唧唧又爱撒娇，所以在女主眼里男主就是三岁小公举。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [向烤肉饭致敬](/post/31400/)
+⭐⭐⭐
+> 作家女主某晚点外卖的时候发现外卖小哥是12年前救了她并且一直暗恋着的小哥哥，勇敢的女主就直接搬到男主楼上开始倒追，两人很快就在一起了。男女主家里都很有钱，但两人平时都很普通很普通w无误会无狗血无虐，傻白甜，互宠，基本无男女配。
+
 </div>
 
 ---
@@ -587,6 +858,66 @@ slide:
 - 下一座岛屿
 - 你的胡子我的围巾
 - 她他
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [妻不可攀](/post/15593/)
+⭐⭐⭐⭐⭐
+> 男主是攀岩退役选手，女主民宿老板娘。在多年前男主和家人吵架离家而去，女主安慰了他，自此男主开始了漫长的追妻路。女主虽然动心，却不认为从事危险职业的男主会是自己的另一半，追求未果的男主出国前放话若再重逢就要重新追求，女主也一直避开他的行踪。七年后两人意外相遇，男主果然说到做到，而女主依旧倔着，直到被人开导既然在一起开心何不试一试。交往后两人感情迅速攀升，后面还有男主退役生涯的问题以及坏人从中作梗，但都有惊无险地解决啦。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [嗨，你的锅铲](/post/9613/)
+⭐⭐
+> 有社恐+抑郁症的男主被家里欠下巨款现在孑然一身的私厨女主所吸引把她当作同类，自闭十年第一次对人产生兴趣。女主刚开始只觉得从不和人见面只通过摄像头交流的男主怪怪的，知道他的病情感觉自己被需要后就自愿留下来陪伴男主，以出其不意的方式治愈男主。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [可是，我想你](/post/29175/)
+⭐⭐⭐⭐⭐
+> 女主为寻找八年前离家出走的弟弟选择当能从内部拿到线索的法医，和姐弟俩一起长大的男主也为此选择当人脉多的记者。男女主在小县重逢，女主发现男主的身份并不简单，和弟弟一样牵涉到一桩走私大案。两人就这么边破案边谈起恋爱。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [下一座岛屿](/post/44380/)
+⭐⭐⭐⭐⭐
+> 女主不擅社交，在被公司辞退后为了逃避现实瞒着父母来到离岛当志愿者，遇到同样是志愿者的男主。二人都察觉到彼此动心了，却因为双方是不同世界的人因此都选择不戳破，直到一起意外发生，男主决定向女主告白。两个对生活产生迷茫绝望的人因为有了对方的存在而努力去学着直面现实做更好的自己，相互救赎，很暖心的一篇文！
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [你的胡子我的围巾](/post/5888/)
+⭐⭐⭐⭐⭐
+> 男主是女主爸爸的同事，曾受托照顾女主一段时间，后发生人为意外，一只腿被截肢，从此人生陷入灰暗，唯有小太阳女主一直在他身边叽叽喳喳。面对女主积极热烈的示爱，男主拒绝过也挣扎过，最后还是抗拒不了。幸好配角们大多都是好人，没有闲言蜚语。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [她他](/post/45764/)
+⭐⭐
+> 男女主校园恋爱成婚多年，就算因为工作异地恋也依然恩爱如初，久而久之却渐渐减少联系，遂女主提出离婚男主也答应了。然而在准备离婚的当天男主发现不对劲，重新介入女主的生活，得知女主想要离婚的真相，挽回了一场悲剧。
+
 </div>
 
 ---
@@ -613,6 +944,76 @@ slide:
 
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [谢神必安](/post/64519/)
+⭐
+> 包租婆女主捡回了一贫如洗的男主，原本对拖欠房租又不找工作的男主心有不满，直到某次被男主救了一命才对他改观。女主晚上睡觉会穿越回千年前的阴间，还遇到了小男主。大男主爽快地承认了自己就是白无常，女主穿越后所做的一切都是过去曾发生过的事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [和男友共穿星际后](/post/47488/)
+⭐⭐
+> 小情侣男女主车祸身亡后穿越到星际，女主变成太子妃，男主则是太子。男主告诉女主他这身体是水母精，并向她展示了触手。满脑子黄色废料的女主突然兴奋，强行镇定。向来呆板的男主敏锐地察觉到女友的不同，随着对女主的了解，渐渐打开了新世界的大门。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [公主变青蛙[星际]](/post/17824/)
+⭐⭐⭐⭐⭐
+> 帝国公主女主遭人陷害，一睁眼发现自己变成联邦贫民男主的宠物青蛙。女主偷偷摸摸地想办法联系哥哥，男主通过蛛丝马迹察觉到违和，诈出女主的人类身份。剧情过半女主回去了，男主为了恋情着想认回身份当上总统，与女主合计揪出幕后凶手。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [莫回头](/post/9802/)
+⭐⭐⭐⭐⭐
+> 女主原是男主的丫鬟，某天妖兽侵袭女主无家可归，混乱之中带着不受宠的男主一起逃跑，从此两人姐弟相称，共同修仙。女主发现自己动情后纠结不已，无意间在男主面前暴露却被婉拒，等女主离开了男主方觉不对劲，追上去告白也不被信任。兜兜转转到结局才在一起。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [观星实用教程](/post/59493/)
+⭐⭐⭐⭐
+> 男女主青梅竹马，形影不离，一次偶然两人去听了场演唱会，从此男主便有了当吉他手的梦想。上了高中男主组好乐队准备签约，恰逢此时发生了粉丝伤害某吉他手女友的事件，男主害怕女主受到伤害，心知他俩互相喜欢也只好狠心拒绝。三年后重逢才真正在一起。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [新手养兔指南](/post/43531/)
+⭐⭐⭐⭐⭐
+> 女主重生回高中生的当天就发现以前暗恋多年无果的男神居然是隔壁家的兔子精，于是女主就开始暗搓搓地接近兔子不断投食，给人形男主补英语，最后成功让脸盲男主记住她并在一起了。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [暖锋中](/post/39400/)
+⭐⭐
+> 女主为了母亲的遗愿决定复读，在班上认识了从城里来的男主，巧的是他俩还住在同一屋檐下。学霸男主经常鼓励女主，正当女主处于迷茫纠结之际，意外发现男主竟是自己那从小认识的笔友。无虐的短篇校园文。
+
+</div>
+
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
@@ -624,17 +1025,90 @@ slide:
 - 大英雄时代
 - 脱轨
 - 有匪
-- 无污染、无公害
 
 </div>
 
 <div id="right">
 
-- 资本剑客
+- 无污染、无公害
 - 流光十五年
 - 大战拖延症
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [大英雄时代](/post/57720/)
+⭐⭐⭐⭐⭐
+> 2429年，地球最后的和平时代在繁华的黄昏里终结，走向了一场旷日持久的战争，懵懂的英雄们还在襁褓中羽翼未丰，就已经被推向残酷的大气层外。
+血与火的时代就此拉开帷幕，顷刻间把中央商圈奔走不息的大片霓虹与橱窗里魅力非凡的模特海报烧成了一把灰烬。
+“告我地球同胞，敌人没有无往不胜的锋锐，并非无可战胜之神，但有我浩然军魂一息尚存，必与这些数典忘祖之辈血战到底，以安我同胞生者之心，慰我同胞死者之灵。”
+“我等愿身化飞灰，扬于百万星河。”
+——直到黎明前的最后一刻。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### 脱轨
+⭐
+> 你相信存在无数个和你生活的宇宙一模一样的平行空间吗？
+明明是同一个人，在这个空间中是不可一世的富家女，在另一个地方就是一无所有的打工妹。
+所有的平行空间井水不犯河水，理论上永远也不会相交，有一天，盛气凌人的富家女江晓媛在一场蓄谋已久的意外中，变成了另一个时空中的“自己”。
+剥离开家世、学历、相貌和财富，什么才是最终的自己？
+本故事为次元版本的变形计。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [有匪](/post/24788/)
+⭐⭐⭐⭐⭐
+> 一个大写的好看！女主从小练武，性格微冷直白，但是好帅！每次看她的心理活动都要笑半天。男主内幕很深的样子，风流腹黑，喜欢看他和女主的互动。这篇文最好看的不是感情戏，而是看女主如何成长闯出一片天的主线，算是女主爽文吧。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [无污染、无公害](/post/36965/)
+⭐⭐⭐
+> 房奴狗上班族男主在接手大爷爷留下的房子的同时被推上了盟主的位置，接触到各种帮派的世界，还遇见小时候救了自己一命的女主，从一桩桩案件牵扯出老一辈的恩怨。
+
+</div>
+
+===
+
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### 流光十五年
+⭐
+> 屈原伯伯说：举世皆浊我独清，举世皆醉我独醒。
+然后他悲愤地跳江了……
+这个故事告诉我们，即使很多时候，我们都梦想着与众不同，可还是会渴望着一个归属，属于一个特定的群体，作为一群有标签的人。
+因为人是群居动物。
+这只是一个讲述成长的故事，如果你的成长过程中，也有那么一段时间，是与周围的人格格不入的，感觉自己被孤立被边缘化，那这个故事就是为你写的。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### 大战拖延症
+⭐⭐⭐⭐⭐
+> 资深拖延症患者叶子璐，一直在这个“忠实的好朋友”的纠缠、折磨和慰藉下凑合活着。
+直到床头的旧布熊被一个车祸中撞成植物人的倒霉汉子附体，而那以后，霉运就好像传染病一样，开始悠悠地飘在叶子璐的头顶上，终于，凑合活着也活不下去了。
+肿么办呢……战拖吧少女！
+
+</div>
 
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
@@ -659,6 +1133,75 @@ slide:
 - 捡的跟班是大佬
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [王子他老挂科[星际]](/post/15548/)
+⭐
+> 女主因憧憬二王子男主，拼命学习以满分成绩考上了同一所学校，却发现电视上温文尔雅成绩优异的男主只是塑造出来的形象，真实的男主不仅性格难搞还门门挂科。男主起先是想看看别人家的孩子女主是怎么样的，在得知女主没有因形象反差而对他产生偏见后便缠上女主。女主帮男主走出了哥哥的阴影，男主也让女主产生依赖感。没有狗血误会和复杂剧情的恋爱小甜文。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [魔王的日常](/post/49220/)
+⭐⭐⭐⭐⭐
+> 女主是不受宠的公主，被爱好抓走公主的大魔王男主抓走了。女主虽然胆小但其实对生死看得很淡，因为不受宠的缘故，尽管知道正确的三观，却没有很大的共鸣，因此就算和蛇精病男主呆久了看不惯他血腥的手段也很快就能消化掉。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [海盗](/post/13707/)
+⭐⭐⭐
+> 女主被污蔑为巫女，为了不被抓去处刑只好躲到船上偷渡，不久就遇到了男主的海盗船。男主是作恶多端的海盗，根据预言找到了能助自己活下去的女主。女主察觉到男主有秘密却再三被敷衍过去，为了复仇便跟着男主一起行动。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [笼中的公主](/post/42646/)
+⭐⭐
+> 在魔族的侵扰下，身为人族公主的女主不得不去和亲，在婚礼当晚女主与曾经的奴隶魔族男主重逢了。曾经女主肆意妄为，男主只能卑微地讨好，如今女主沦为阶下囚，男主则站在一旁冷嘲热讽。男女主相爱相杀，只有在不断穿插的回忆中才能发现两人扭曲的情感。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [在异世讨生活](/post/3214/)
+⭐
+> 女主穿越到异世后发现自己被关起来了，趁乱逃脱时遇到对人类有好感而出手相救的男主，女主躲在男主家养伤的期间越来越依赖男主。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [少女的游戏](/post/28866/)
+⭐
+> 女主失忆了，不明现状的她只好跟着剧情走，每当向别人打听什么重要的信息时都会有选择肢跳出来阻止。伏笔很多的一篇西幻悬疑（？）文
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [捡的跟班是大佬](/post/33162/)
+⭐
+> 女主救了被人陷害变成蛊人的男主，男主毁容还失智，跟个小傻子似的粘着女主，女主也习惯性照顾他。后来知道男主的身份大有来头，结局男主恢复了记忆。
+
+</div>
 
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
@@ -696,6 +1239,186 @@ slide:
 </div>
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [阿月](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [吾爹非土著](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [上上签](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [腊月初八异事录](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [教主，你又变身了](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [反派真绝色](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我的熊猫大人](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [六界搬运工](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [镜中妖](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [养只蒜妖镇镇宅](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我爹不是地球人](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [笑春风](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [世家夫人](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我的熊猫城主](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [相公是把剑](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [花妖客栈](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我养祖宗那些年](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [偷命](/post/48480/)
+⭐⭐⭐⭐⭐
+> 
+
+</div>
+
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
@@ -715,6 +1438,55 @@ slide:
 - 喵主子
 - 肥啾饲养指南
 - 我，海獭，打钱！
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [论养龙的一百种方法](/post/4426/)
+⭐⭐⭐⭐⭐
+> 女主穿越到兽人世界生活多年，某天捡到因为丑陋肥胖而被人嘲笑试图自杀的男主。男主十分自卑，小心翼翼经常害怕到嘤嘤哭泣。女主心生怜爱，带回家陪着他减肥却毫无成效，最后揭晓男主其实是一只真龙。女主救赎男主，算半养成？男主成长很快。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我在星际捡垃圾](/post/33219/)
+⭐⭐⭐
+> 女主穿越成机器人，在环境恶劣的垃圾星流浪，捡到出逃在外的实验体男孩就把他带在身边，之后又救下失忆的母体男主，以及同样是实验体的一群动物。大家一起想办法改善星球的环境，最后发展成旅游胜地。算是星际种田文？
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [喵主子](/post/29840/)
+⭐⭐
+> 女主穿越到动物世界，这里的动物分开智动物和普通动物，女主被伯爵巨猫男主带回家当宠物养。男主越看越觉得这只会做饭按摩的宠物可爱，女主也天天沉迷于吸猫。后来女主学会当地语言，做了开智测试，脱离了宠物的身份。这个世界通过女主的基因，成为了兽人世界。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [肥啾饲养指南](/post/7489/)
+⭐⭐⭐⭐
+> 修炼成精的山雀女主一觉醒来发现自己的山头变成了公园，第一时间就在众鸟面前立下老大的地位，还捡到一只涅槃失败变得乌漆麻黑的凤凰男主带回窝。剧情就是两只鸟在公园的日常，后面还多了俩崽子，认识了一些好心人类。结局一家四口回到了男主的兽人星球。 ​​​​
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我，海獭，打钱！](/post/7916/)
+> 女主穿越到异世界成为团宠海獭，从此靠卖萌直播走上獭生巅峰。
+
 </div>
 
 ---
@@ -739,6 +1511,86 @@ slide:
 - 非人类医院
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [下一个人间](/post/43491/)
+⭐⭐⭐⭐⭐
+> 小公主女主要下嫁给戍边将军，原以为对方是虎背熊腰的壮汉，却没想到竟是鲜衣怒马的少年郎。两人一见钟情，多年来面容模糊的梦中人也终于有了答案。夫妻俩恩爱甜蜜，城里民风淳朴，整个人仿佛置身于世外桃源，听作者娓娓道来一段舒适惬意的故事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [客从何处来](/post/18669/)
+⭐
+> 男女主双穿，不同的是对于男主来说这个朝代是架空的，对于女主来说却是历史上的朝代，故事就围绕着他们身边的角色展开。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [本神还没死呢！](/post/9481/)
+⭐⭐⭐⭐⭐
+> 上神女主在殒身前给男主留下一儿子，男主带着儿子等了百年才终于等回失去记忆自认为是小仙的女主。因女主神魄不稳，男主就没告诉她真相惊扰她，只求她助自己复活亡妻。一家三口一路寻找凑齐女主魂魄的线索，同时救助陷入天下大乱的苍生。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [特殊案件调查处](/post/62215/)
+⭐
+> 算是组队打怪？这篇文里妖人和谐共处，妖怪们在人类世界都有职业，或者是像主角们那样任职妖怪公安，虽然大多数人类不知道他们的存在，但妖怪们都会自发性地保护人类。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [公主的使命](/post/58412/)
+⭐⭐
+> 公主女主因祭司的预言被国王视为不详逐出王国，女主杀了龙获得力量来到外面的世界，发现每个世界都一片混乱。祭司为了寻求真相随着女主踏上旅途，每途径一个世界都有新的小伙伴加入，大家一起反抗命运追求自由。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [追妻八十一难](/post/30467/)
+⭐⭐⭐⭐⭐
+> 男主对苗族女主一见钟情，在追求半年后终于决定告白的当天却莫名变成一条狗，冥冥之中意识到这和女主有关，女主就带着男主去找自己的神巫爸爸求救。一路上男主隔段时间就变成别的物种，两人也借此放飞自我深入了解对方。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [别做梦了快醒来](/post/11156/)
+⭐⭐⭐⭐⭐
+> 女主被神秘boss引魂入梦，长梦不醒，男主就被请来帮忙，入女主的梦实现她的心愿让她醒过来。然而在梦里女主每次都被逼婚，快要完成心愿的时候也因为这个未婚夫的缘故害男主拯救失败。到后来男主察觉到那位未婚夫的身份，在女主家人的协助下一同解决了神秘boss，男女主也在几次不同的梦中相处出感情，在一次梦中约会醒来后，两人激动地跑去领证了。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [非人类医院](/post/36764/)
+⭐⭐⭐⭐⭐
+> 背景是人妖共存的现代社会，女主是仅存的能够治疗妖怪的医生。某天被封印在医院地下的狐妖男主苏醒，却失去记忆，身上背着杀害百人的疑案，身负重伤，便带着枷锁在医院疗伤。长久相处下来，女主觉得乐于助人的男主似有冤情，便努力帮他寻找真相。
+
+</div>
+
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
@@ -761,6 +1613,68 @@ slide:
 - 任青
 </div>
 
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [江敏](/post/37543/)
+⭐⭐⭐
+> 男女主的家庭都一言难尽。女主爹不疼后娘不爱，自己打工养活自己；男主父母貌合神离，导致男主有双重人格。两人因男主张扬的人格相识，被戏称校园CP，在最孤独的时候都会有另一方的陪伴，日渐生情。感情戏在临近结尾起了点小波折，没啥大碍，最后上了同一所大学。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [寇越](/post/41407/)
+⭐⭐⭐⭐
+> 女主的父亲当年被女配的家人讹钱后自杀，两人成为舍友后女主看在她下跪的份上没多说什么，女配却一番骚操作害女主被排挤、跟竹马断交、被原本有暧昧差点就能成的男主误会。多年后真相水落石出，男女主再续前缘，竹马女配也得到了报应。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [张思芮](/post/47738/)
+⭐⭐
+> 男女主青梅竹马交往过一阵子，女主父亲曾抓捕过的犯人越狱放话说要让女主偿命，女主只好不告而别抹去痕迹上了公安大学。为了女主能够回来找他，男主成为了家喻户晓的明星，最后还是在新闻里看到当上刑警的女主抓捕犯人的身影。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [武七七](/post/22317/)
+⭐
+> 三线演员女主偶然撞破歌神男主有幻觉的秘密， 之后两人也没怎么联系，直到女主闺蜜被绑架上新闻，为求压下热度女主找男主帮忙，男主就传出二人交往的绯闻，后来假戏真做，女主不停被diss，还被卷入经纪人的风波中。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [端午](/post/28058/)
+⭐⭐⭐⭐⭐
+> 一个乍一看有点悲催但仔细一看其实是温暖风的故事。女主咋一看有点包子但仔细一看其实是执拗的故事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [任青](/post/9625/)
+⭐⭐⭐
+> 田藤第一次看见任青偷东西，是在社区超市的大立镜前，她双眸惊惶，他面色清冷。她是个不相干的人，他并不关注。
+田藤第二次看见任青偷东西是在国贸商场，他看出一些蹊跷，但是仍旧不愿意深究，她不再是不相干的人，却也算不上多亲近。虽然两人因为是同桌多少有过一些交流，虽然他十分钟前在众目睽睽之下替这个愚勇的女生挨过一个耳光。
+田藤高考前第三次看见任青偷东西，是在学校门口的小商店里，她低头要走，他冷淡地看着她，眼底隐隐一抹厉色。他最终出手拦住她，而她蹲下来，两只手在脸上捂了一会儿又去抹自裙子里淌出来的血迹。
+
+</div>
+
 ---
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
@@ -779,6 +1693,36 @@ slide:
 
 - 傻瓜镇的居民
 - 葵花籽换来的木匠
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [四时甜院](/post/5504/)
+⭐⭐⭐⭐⭐
+> 男主因做错事被父王丢给在乡下当夫子的友人管教，养尊处优的男主刚开始还不习惯，但他也不是不讲理的人，再加上还有夫子的女儿成天同他凑一块儿玩闹。两人日久生情，临回京前互诉衷肠，在离别期间也没断书信往来。没多久女主就因故上京，这才定下终生大事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [傻瓜镇的居民](/post/49870/)
+⭐⭐⭐⭐
+> 女主搬到犹如世外桃源的傻瓜镇，这里的房子都如童话般可爱，居民们其乐融融，每天只有开心没有烦恼。剧情讲的是女主在搬来傻瓜镇后度过的第一个春夏秋冬，以及与别扭的邻居男主之间的二三事。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [葵花籽换来的木匠](/post/40439/)
+⭐
+> 男女主高中时双向暗恋但谁也没告白，直到多年后重逢，女主发现自己依旧对男主念念不忘，男主也主动地接近女主。是篇平淡温暖的文。
+
 </div>
 
 ---
@@ -804,14 +1748,106 @@ slide:
 - 吸吸血鬼
 </div>
 
----
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
 
-## ⒄[陈未满](https://m.jjwxc.com/wapauthor/1653695)
-目前写的文太少不大好说，剧情有波折但都不会太虐。
-起码现在还是能放心入坑。
+### [论阅尽天下言情小说的你如何谈恋爱](/post/39069/)
+⭐⭐⭐⭐⭐
+> 女主高中时暗恋男主，于是就暗搓搓地写了本以他俩为原型的小黄文，被同学发现后遭到校园欺凌，就连男主也知道了。男主当面撕了小黄文（有隐情），导致女主虽然爱他却也很怕他，后来又写了一本被男主没收，女主因校园欺凌太过分而退学了。多年后女主成为知名作家，为了商谈作品影视化去娱乐城时遇到在台上被人当成宠物的男主，至今仍爱慕男主的女主一个冲动把他买回家了。
 
-- 山慕如长风
-- 她总是在死
-- 前女友失忆了
-- 小夏
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [作者咋不让男主上天呢](/post/11532/)
+⭐⭐⭐
+> 女主穿越到自己只写了大纲还没开始写剧情的小说里，穿越后还带了个电脑，她可以自己写出合理剧情并让它实现，电脑也会自动补齐剧情。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [不眠/杀入男校救病娇](/post/26883/)
+⭐⭐
+> 那朵廉价而艳丽的，下水道开出的花
+——他坏在最好的年华，纵身一跃；
+跌落零散在谁的脚边，换最后一次的垂怜。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [点击即食后悔药](/post/50844/)
+⭐
+> 谁说世上没有后悔药？
+庄小枣就有，一整瓶。
+章奶奶说：“小姑娘，勇敢去爱。爱错了人，大不了吃一颗错爱后悔药。”
+这后悔药，永远有效，没有保质期。
+这后悔药，能篡改发生的事实和人的记忆。
+凭借后悔，庄小枣以为自己顺利地避开了渣男，走向了人生的最佳选择。
+但事实上，不论后悔多少次，她都准确无误地朝负心汉(×)虎扑而去！
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [双份omega等于OMG](/post/2617/)
+⭐
+> 女主对男主告白的那天，两人一起被雷劈穿越到abo的世界，两人都是omega，期间发生一系列事件，最后男主获得穿越时空异能，两人一起自由在两世界间来回穿梭。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [为了让何玉后悔](/post/48081/)
+⭐⭐⭐⭐⭐
+> 女主在父母的溺爱下娇蛮又任性，导致保姆的儿子男主很讨厌她，但女主心眼不坏，两人曾一度成为好朋友。高中重逢时两人的地位发生倒转，起初有过误会，在得知女主家里破产故作坚强后男主不由得开始在意，曾经嚣张跋扈的女主却不敢靠近男主了。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [今天也要努力去你梦里](/post/52519/)
+⭐
+> 日有所思，夜有所梦。
+现实世界留下印象的，就能在你的梦里出现。
+[关于穿梦，凌凌七以为，参与男神的梦境是这样]：和柏海嬉戏、和柏海牵手奔跑，和柏海进行有趣的play。
+[事实是，柏海的梦境里，根据印象她变成了这样]：“恭喜你成为柏海基友的手表”、“恭喜你成为吃掉柏海的怪兽”、“恭喜你尾随柏海来到末世”……
+为开拓自己梦中的形态，少女决心在柏海面前怒刷存在感。日夜兼刷之下，终于，凌凌七刷新出了一个新♂世界。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [我床下长出的boy](/post/34163/)
+⭐⭐⭐⭐⭐
+> \#买房子买在墓地上，是怎样的一种体验\#
+八岁的我：不知从哪里长来的胖哥哥常对着我的睡颜流口水，我猜他在暗恋我！
+十八岁的我：（拍拍床）小白过来，给你吃个好吃的。
+
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<div id="text">
+
+### [吸吸血鬼](/post/44569/)
+⭐
+> 男女主在幼儿园时是很好的朋友，相约长大后结婚，未料到男主遭到意外变成吸血鬼，身体变成青年，只好躲起来生活，直到初三暑假那年女主搬家回到原来的住处才与男主重逢。
+
+</div>
