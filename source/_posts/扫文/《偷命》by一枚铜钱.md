@@ -2,7 +2,7 @@
 title: 《偷命》by一枚铜钱
 tags:
   - 古言
-  - 单元
+  - 单元文
   - 妖魔鬼怪
 category:
   - 扫文

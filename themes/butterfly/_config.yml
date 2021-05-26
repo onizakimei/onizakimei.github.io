@@ -733,7 +733,7 @@ preloader:
   enable: true # true|false
   load_color: '#ffffff' # '#37474f'
   load_style: image # # spinner-box|wizard|ironheart|scarecrow|image
-  load_image: /img/shelter.gif # url
+  load_image: https://cdn.jsdelivr.net/gh/onizakimei/cdn/shelter.gif # url
 
 # aside (側邊欄)
 # --------------------------------------

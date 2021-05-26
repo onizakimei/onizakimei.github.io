@@ -1,7 +1,7 @@
 ---
 title: 《黄泉路下》byTouchinghk
 tags:
-  - 单元
+  - 单元文
   - 妖魔鬼怪
 category:
   - 扫文

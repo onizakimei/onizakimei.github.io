@@ -4,6 +4,9 @@ source
         |__ custom.css
      |__ index.styl
 
+.fa-list-ul:before {
+    color: #ff4949!important;
+}
 
 /*/表格样式/*/
 .table-wrap {
