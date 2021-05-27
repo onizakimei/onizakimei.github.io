@@ -92,7 +92,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 
 <div id="text">
 
@@ -105,7 +105,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [七根凶简](http://www.jjwxc.net/onebook.php?novelid=2366797)
@@ -119,7 +119,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [三线轮回](http://www.jjwxc.net/onebook.php?novelid=3453749)
@@ -132,7 +132,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [龙骨焚箱](http://www.jjwxc.net/onebook.php?novelid=3453749)
@@ -143,7 +143,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [半妖司藤](http://www.jjwxc.net/onebook.php?novelid=1984217)
@@ -157,7 +157,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [开封志怪](http://www.jjwxc.net/onebook.php?novelid=571855)
@@ -169,7 +169,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [西出玉门](http://www.jjwxc.net/onebook.php?novelid=3035707)
@@ -180,7 +180,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [枭起青壤](/post/7743/)
@@ -192,7 +192,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [四月间事](http://www.jjwxc.net/onebook.php?novelid=2826470)
@@ -233,7 +233,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [占卜师与我](/post/3651/)
@@ -245,7 +245,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [撕了那个网红](/post/53066/)
@@ -258,7 +258,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [欢迎走近不科学](/post/30549/)
@@ -270,7 +270,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [魔王不是演技派](/post/7369/)
@@ -283,7 +283,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [造神少女](/post/15755/)
@@ -295,7 +295,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [你看起来很能吃](/post/39180/)
@@ -307,7 +307,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [这个地球我买了](/post/62295/)
@@ -319,7 +319,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我和面具先生订婚了](/post/30706/)
@@ -331,7 +331,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [修仙失败后](/post/47283/)
@@ -345,7 +345,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我大佬的身份瞒不住了](/post/22377/)
@@ -358,7 +358,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我在地球求学的日子](/post/31059/)
@@ -404,7 +404,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [逆向生长/我有一个霸总朋友](/post/8842/)
@@ -416,7 +416,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [只要我装作没看见，](/post/25370/)
@@ -430,7 +430,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我爸说他是神](/post/24414/)
@@ -441,7 +441,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [老小孩/神家里的老小孩](/post/48079/)
@@ -453,7 +453,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [千万不要和妖怪做朋友](/post/9832/)
@@ -466,7 +466,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我哥说他是皇帝](/post/12320/)
@@ -478,7 +478,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [你压着我隐形的叶子了](/post/9968/)
@@ -490,7 +490,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我想和你做好朋友](/post/35355/)
@@ -502,7 +502,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我把一半生命分给你](/post/6231/)
@@ -517,7 +517,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [老板，我熬夜猝死了](/post/5449/)
@@ -530,7 +530,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [重生之你有病得治](/post/24684/)
@@ -541,7 +541,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我不嫌弃他又丑又穷](/post/12590/)
@@ -554,7 +554,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [你凶成了我喜欢的样子](/post/48558/)
@@ -566,7 +566,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我能摸摸你的财神光环吗？](/post/48480/)
@@ -579,7 +579,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [眼睛成精了以后](/post/16316/)
@@ -624,7 +624,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [第一道派魔导师！](/post/41633/)
@@ -635,7 +635,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [第一战场指挥官！ ](/post/54303/)
@@ -647,7 +647,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [有朝一日刀在手](/post/28195/)
@@ -659,7 +659,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [总有辣鸡想带我飞](/post/19786/)
@@ -670,7 +670,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [凶案现场直播](/post/12339/)
@@ -683,7 +683,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [强势逆袭](/post/54168/)
@@ -695,7 +695,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [赚钱真的好难哦！](/post/8633/)
@@ -708,7 +708,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [灼灼烈日](/post/45934/)
@@ -722,7 +722,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [中二观察实录](/post/6068/)
@@ -733,7 +733,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [深藏不露](/post/37130/)
@@ -746,7 +746,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [最佳二传](/post/24880/)
@@ -758,7 +758,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [力荐河山](/post/2153/)
@@ -769,7 +769,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [在下是一条公狗](/post/48633/)
@@ -800,7 +800,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [读心术](/post/37695/)
@@ -818,7 +818,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [七日](/post/35553/)
@@ -831,7 +831,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [皇城探事司（坑）](/post/59425/)
@@ -844,7 +844,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [仵作娘子](/post/54742/)
@@ -857,7 +857,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [名捕夫人](http://www.jjwxc.net/onebook.php?novelid=1996178)
@@ -870,7 +870,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [毒舌王爷傲娇妃](/post/65205/)
@@ -906,7 +906,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [小时不识月](/post/57838/)
@@ -919,7 +919,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [撸猫吗](/post/21301/)
@@ -931,7 +931,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [今天也在努力](/post/35616/)
@@ -945,7 +945,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [周礼记](/post/56767/)
@@ -958,7 +958,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [你还知道回来啊](/post/47245/)
@@ -969,7 +969,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [向熊孩子致敬](/post/31600/)
@@ -981,7 +981,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [向烤肉饭致敬](/post/31400/)
@@ -1014,7 +1014,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [妻不可攀](/post/15593/)
@@ -1027,7 +1027,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [嗨，你的锅铲](/post/9613/)
@@ -1039,7 +1039,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [可是，我想你](/post/29175/)
@@ -1051,7 +1051,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [下一座岛屿](/post/44380/)
@@ -1065,7 +1065,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [你的胡子我的围巾](/post/5888/)
@@ -1078,7 +1078,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [她他](/post/45764/)
@@ -1113,7 +1113,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [谢神必安](/post/64519/)
@@ -1126,7 +1126,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [和男友共穿星际后](/post/47488/)
@@ -1140,7 +1140,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [公主变青蛙[星际]](/post/17824/)
@@ -1153,7 +1153,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [莫回头](/post/9802/)
@@ -1166,7 +1166,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [观星实用教程](/post/59493/)
@@ -1179,7 +1179,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [新手养兔指南](/post/43531/)
@@ -1190,7 +1190,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [暖锋中](/post/39400/)
@@ -1224,7 +1224,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [大英雄时代](/post/57720/)
@@ -1239,7 +1239,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [脱轨](http://www.jjwxc.net/onebook.php?novelid=2249118)
@@ -1254,7 +1254,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [有匪](/post/24788/)
@@ -1268,7 +1268,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [无污染、无公害](/post/36965/)
@@ -1280,7 +1280,7 @@ slide:
 
 ===
 
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [流光十五年](http://www.jjwxc.net/onebook.php?novelid=907663)
@@ -1295,7 +1295,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [大战拖延症](http://www.jjwxc.net/onebook.php?novelid=1461220)
@@ -1330,7 +1330,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [王子他老挂科[星际]](/post/15548/)
@@ -1344,7 +1344,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [魔王的日常](/post/49220/)
@@ -1356,7 +1356,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [海盗](/post/13707/)
@@ -1369,7 +1369,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [笼中的公主](/post/42646/)
@@ -1382,7 +1382,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [在异世讨生活](/post/3214/)
@@ -1393,7 +1393,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [少女的游戏](/post/28866/)
@@ -1405,7 +1405,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [捡的跟班是大佬](/post/33162/)
@@ -1451,7 +1451,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [阿月](/post/42593/)
@@ -1466,7 +1466,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [吾爹非土著](/post/22432/)
@@ -1478,7 +1478,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [上上签](/post/12387/)
@@ -1491,7 +1491,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [腊月初八异事录](/post/19237/)
@@ -1504,7 +1504,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [反派真绝色](/post/30179/)
@@ -1516,7 +1516,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我的熊猫大人](/post/8823/)
@@ -1530,7 +1530,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [六界搬运工](/post/51851/)
@@ -1543,7 +1543,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [镜中妖](/post/58293/)
@@ -1554,7 +1554,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [养只蒜妖镇镇宅](/post/61827/)
@@ -1565,7 +1565,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我爹不是地球人](/post/27061/)
@@ -1577,7 +1577,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [笑春风](/post/30664/)
@@ -1589,7 +1589,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [世家夫人](/post/25832/)
@@ -1603,7 +1603,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我的熊猫城主](/post/14632/)
@@ -1619,7 +1619,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [相公是把剑](/post/18902/)
@@ -1630,7 +1630,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [花妖客栈](/post/13972/)
@@ -1641,7 +1641,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我养祖宗那些年](/post/62318/)
@@ -1653,7 +1653,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [偷命](/post/32896/)
@@ -1684,7 +1684,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [论养龙的一百种方法](/post/4426/)
@@ -1698,7 +1698,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我在星际捡垃圾](/post/33219/)
@@ -1710,7 +1710,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [喵主子](/post/29840/)
@@ -1723,7 +1723,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [肥啾饲养指南](/post/7489/)
@@ -1735,7 +1735,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我，海獭，打钱！](/post/7916/)
@@ -1768,7 +1768,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [下一个人间](/post/43491/)
@@ -1781,7 +1781,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [客从何处来](/post/18669/)
@@ -1792,7 +1792,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [本神还没死呢！](/post/9481/)
@@ -1805,7 +1805,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [特殊案件调查处](/post/62215/)
@@ -1817,7 +1817,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [公主的使命](/post/58412/)
@@ -1829,7 +1829,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [追妻八十一难](/post/30467/)
@@ -1841,7 +1841,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [别做梦了快醒来](/post/11156/)
@@ -1854,7 +1854,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [非人类医院](/post/36764/)
@@ -1887,7 +1887,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [江敏](/post/37543/)
@@ -1900,7 +1900,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [寇越](/post/41407/)
@@ -1912,7 +1912,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [张思芮](/post/47738/)
@@ -1924,7 +1924,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [武七七](/post/22317/)
@@ -1935,7 +1935,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [端午](/post/28058/)
@@ -1947,7 +1947,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [任青](/post/9625/)
@@ -1980,7 +1980,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [四时甜院](/post/5504/)
@@ -1993,7 +1993,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [傻瓜镇的居民](/post/49870/)
@@ -2005,7 +2005,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [葵花籽换来的木匠](/post/40439/)
@@ -2040,7 +2040,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [论阅尽天下言情小说的你](/post/39069/)
@@ -2054,7 +2054,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [作者咋不让男主上天呢](/post/11532/)
@@ -2065,7 +2065,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [不眠/杀入男校救病娇](/post/26883/)
@@ -2078,7 +2078,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [点击即食后悔药](/post/50844/)
@@ -2095,7 +2095,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [双份omega等于OMG](/post/2617/)
@@ -2106,7 +2106,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [为了让何玉后悔](/post/48081/)
@@ -2118,7 +2118,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [今天也要努力去你梦里](/post/52519/)
@@ -2133,7 +2133,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [我床下长出的boy](/post/34163/)
@@ -2146,7 +2146,7 @@ slide:
 </div>
 
 ===
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo.gif" data-background-size="cover"-->
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
 <div id="text">
 
 ### [吸吸血鬼](/post/44569/)
