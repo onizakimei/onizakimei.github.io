@@ -9,6 +9,7 @@ slide:
     history: false
     mouseWheel: true
     transition: fade
+    hideAddressBar: true
 ---
 <head>
 <base target="_blank"> 
@@ -24,52 +25,71 @@ slide:
 <div id="description">其实也不是安利的作者每篇文都看过，但起码看过两篇以上都很喜欢就会加入收藏。
 有些文很早之前看的，当时没140字概括的习惯，纯感想，懒得重写了直接贴文案<img src="/ac/07.png" id="bq">
 </div>
+</div>
+<section data-transition="slide">
 
-> ①**左右**滑动切换作者，**上下**滑动切换小说。
-②**作者页面**戳作者跳转专栏，**小说页面**戳标题跳转剧透。
-③只写我看过的文。
+> **左右**滑动切换作者，**上下**滑动切换小说。
+**作者页面**戳作者跳转专栏，**小说页面**戳标题跳转剧透or小说。
+只写我看过的文。
 
-⭐⭐⭐⭐⭐ 强推
+</section>
+
+<section data-transition="slide">
+
+>⭐⭐⭐⭐⭐ 强推
 ⭐⭐⭐⭐ 中强推
 ⭐⭐⭐ 中推
 ⭐⭐ 小推
 ⭐ 无推
 
-</div>
+</section>
+
 ---
 
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/ame.gif" data-background-size="contain" data-background-repeat="repeat"-->
 
+<section data-auto-animate>
+
+<a href="#" class="navigate-next">![](/bq/IMG_2743.JPG)</a>
+
 目前共安利<font color=red>16</font>位作者
->可点击直接跳转
+>随时追加中，可点击直接跳转。
+
+</section>
+
+<section data-auto-animate>
+
+目前共安利<font color=red>16</font>位作者
 
 <div id="left">
 
-<a href="/slides/author.html#/2"   target="_self">尾鱼</a>
-<a href="/slides/author.html#/3"   target="_self">湖砚</a>
-<a href="/slides/author.html#/4"   target="_self">城南花开</a>
-<a href="/slides/author.html#/5"   target="_self">退戈</a>
-<a href="/slides/author.html#/6"   target="_self">清闲丫头</a>
-<a href="/slides/author.html#/7"   target="_self">许姑娘</a>
-<a href="/slides/author.html#/8"   target="_self">映漾</a>
-<a href="/slides/author.html#/9"   target="_self">阮青鸽</a>
+<a href="#/2"   target="_self" style="background: none;color: #0371d5">尾鱼</a>
+<a href="#/3"   target="_self" style="background: none;color: #0371d5">湖砚</a>
+<a href="#/4"   target="_self" style="background: none;color: #0371d5">城南花开</a>
+<a href="#/5"   target="_self" style="background: none;color: #0371d5">退戈</a>
+<a href="#/6"   target="_self" style="background: none;color: #0371d5">清闲丫头</a>
+<a href="#/7"   target="_self" style="background: none;color: #0371d5">许姑娘</a>
+<a href="#/8"   target="_self" style="background: none;color: #0371d5">映漾</a>
+<a href="#/9"   target="_self" style="background: none;color: #0371d5">阮青鸽</a>
 </div>
 
 <div id="right">
 
-<a href="/slides/author.html#/10"   target="_self">Priest</a>
-<a href="/slides/author.html#/11"   target="_self">细胞剧增</a>
-<a href="/slides/author.html#/12"   target="_self">一枚铜钱</a>
-<a href="/slides/author.html#/13"   target="_self">非刀</a>
-<a href="/slides/author.html#/14"   target="_self">凤久安</a>
-<a href="/slides/author.html#/15"   target="_self">品丰</a>
-<a href="/slides/author.html#/16"   target="_self">樱桃煎</a>
-<a href="/slides/author.html#/17"   target="_self">番大王</a>
+<a href="#/10"   target="_self" style="background: none;color: #0371d5">Priest</a>
+<a href="#/11"   target="_self" style="background: none;color: #0371d5">细胞剧增</a>
+<a href="#/12"   target="_self" style="background: none;color: #0371d5">一枚铜钱</a>
+<a href="#/13"   target="_self" style="background: none;color: #0371d5">非刀</a>
+<a href="#/14"   target="_self" style="background: none;color: #0371d5">凤久安</a>
+<a href="#/15"   target="_self" style="background: none;color: #0371d5">品丰</a>
+<a href="#/16"   target="_self" style="background: none;color: #0371d5">樱桃煎</a>
+<a href="#/17"   target="_self" style="background: none;color: #0371d5">番大王</a>
 
 </div>
 
+</section>
+
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [尾鱼](https://m.jjwxc.net/wapauthor/387337)
 <div id="description">擅长写悬疑，世界观的细节设定到尾，感情戏也好磕。女主都很勇，吹爆我鱼总！</div>
@@ -89,6 +109,7 @@ slide:
 - 西出玉门
 - 枭起青壤
 - 四月间事
+
 </div>
 
 ===
@@ -203,7 +224,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 <div id="more">
 
@@ -371,7 +392,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 <div id="more">
 
@@ -593,7 +614,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 <div id="more">
 
@@ -780,7 +801,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [清闲丫头](https://m.jjwxc.com/wapauthor/835745)
 <div id="description">边走剧情边谈恋爱，基本都是探案，但文风轻松看着不累，甜就对了。</div>
@@ -884,7 +905,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [许姑娘](https://m.jjwxc.com/wapauthor/1333974)
 <div id="description">早期的文姑且不论，后面的文风越来越可爱。
@@ -994,7 +1015,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [映漾](https://m.jjwxc.com/wapauthor/214799)
 <div id="description">严肃的剧情里带着温暖，写的都是现代背景下男人女人谈恋爱的故事。</div>
@@ -1090,7 +1111,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [阮青鸽](https://m.jjwxc.com/wapauthor/779957)
 <div id="description">题材太杂有点难介绍，主角都是懵懵懂懂谈恋爱的小萌新。
@@ -1203,7 +1224,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [Priest](https://m.jjwxc.com/wapauthor/145956)
 <div id="description">文笔剧情没得说，都是女主成长文（当然男主也很可）
@@ -1308,7 +1329,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [细胞剧增](https://m.jjwxc.com/wapauthor/781120)
 <div id="description">允许我先抹个泪，作者好久没写文了，是难得爱写西幻而且剧情都合我胃口的作者。
@@ -1417,7 +1438,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 <div id="more">
 
@@ -1665,7 +1686,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [非刀](https://m.jjwxc.com/wapauthor/1490046)
 <div id="description">其实还有一半的文没看过，喜欢写星际&动物。当然动物都会化成人，毛绒控有点小失落（？）</div>
@@ -1746,7 +1767,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [凤久安](https://m.jjwxc.com/wapauthor/824215)
 <div id="description">同样题材太杂难以介绍，但是文笔很可以，不管什么题材都能驾驭，很强大。</div>
@@ -1867,7 +1888,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [品丰](https://m.jjwxc.com/wapauthor/1653695)
 <div id="description">文风偏清淡，在一丝丝压抑下又带着些微的甜。字数都是十几万字的中篇，节奏把握得刚刚好。</div>
@@ -1960,7 +1981,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [樱桃煎](https://m.jjwxc.com/wapauthor/2140090)
 <div id="description">剧情都很平淡温馨，像夏日里甘冽的清水，又像闯入了现实中的童话世界。
@@ -2017,7 +2038,7 @@ slide:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
+<!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->
 
 ## [番大王](https://m.jjwxc.com/wapauthor/1447604)
 <div id="description">一言难尽，是喜欢写脑洞文的作者，剧情多多少少带点虐。
@@ -2155,3 +2176,24 @@ slide:
 > 男女主在幼儿园时是很好的朋友，相约长大后结婚，未料到男主遭到意外变成吸血鬼，身体变成青年，只好躲起来生活，直到初三暑假那年女主搬家回到原来的住处才与男主重逢。
 
 </div>
+
+---
+
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/ame.gif" data-background-size="contain" data-background-repeat="repeat"-->
+
+## -完-
+</br>
+
+<a href="#/1/2"   target="_self" style="background: #ebf5ff;color: #0371d5;box-shadow: 0px 0px 0px 1.5px black, 12px 15px 0 #8ebeea;padding: 10px 10px 10px 10px">返回作者目录</a>
+</br>
+
+<a href="#" class="navigate-next" style="background: #ebf5ff;color: #0371d5;box-shadow: 0px 0px 0px 1.5px black, 12px 15px 0 #8ebeea;padding: 10px 10px 10px 10px">收藏关注</a>
+
+===
+
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/ame.gif" data-background-size="contain" data-background-repeat="repeat"-->
+
+<div id=star><a href="https://kimei.top">收藏博客</div>
+ <iframe data-src="https://kimei.top" width="1155"  height="300" frameborder="0"></iframe>            
+<div id=star><a href="https://weibo.com/u/5634709251">关注微博</div>
+ <iframe data-src="https://weibo.com/u/5634709251" width="100%"  height="300" frameborder="0"></iframe>  

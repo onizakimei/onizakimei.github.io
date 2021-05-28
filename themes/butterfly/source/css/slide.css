@@ -211,7 +211,7 @@
 }
 @font-face {
     font-family:'记忆碎片';
-    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/FZJiYDSPTJW.TTF');
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/FZJiYDSPTJW1.TTF');
     font-display: fallback;
 }
 
@@ -222,7 +222,7 @@
 }
 
 #star {
-    animation: heartbeat 1.2s ease 0s infinite normal;
+    animation: heartbeat 1s ease 0s infinite normal;
 }
 @keyframes heartbeat {
     0%{

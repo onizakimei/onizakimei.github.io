@@ -5,7 +5,7 @@ source
      |__ index.styl
 
 .fa-list-ul:before {
-    color: #ff4949!important;
+  color: red !important;
 }
 
 /*/表格样式/*/
