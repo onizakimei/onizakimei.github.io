@@ -2194,6 +2194,6 @@ slide:
 <!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/ame.gif" data-background-size="contain" data-background-repeat="repeat"-->
 
 <div id=star><a href="https://kimei.top">收藏博客</div>
- <iframe data-src="https://kimei.top" width="1155"  height="300" frameborder="0"></iframe>            
+ <iframe data-src="https://kimei.top" width="768"  height="300" frameborder="0"></iframe>            
 <div id=star><a href="https://weibo.com/u/5634709251">关注微博</div>
  <iframe data-src="https://weibo.com/u/5634709251" width="100%"  height="300" frameborder="0"></iframe>  

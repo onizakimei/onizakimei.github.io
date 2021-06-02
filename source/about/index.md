@@ -1,8 +1,9 @@
 ---
-title: 自我介绍
+title: 关于我
 date: 2020-12-27 01:46:19
+aside: false
+comments: false
 ---
-
 网名是<font color=red>**鬼冥**</font>~~不要问为什么那么中二毕竟小学起的~~
 是社畜。
 为了防止{% psw 渣浪和谐网盘抽风 %}数据丢失于是建了个博客。主要写[书评](/categories/扫文/)和[汉化](/categories/汉化/)，不过书评占多数所以善用目录。
@@ -10,7 +11,7 @@ date: 2020-12-27 01:46:19
 ## 虚拟形象
 用[custom cast](https://customcast.jp/)捏的，也就平时和基友玩玩偶尔自拍。![](/img/3.jpg)
 是小男孩，虽然不知道为什么男装也会微妙有胸但是是小男孩！兽耳和异瞳都是性癖，挑染和脸纹是我永不灭却的中二之魂的证明（？）没有私设（~~都不出道我搞什么私设~~）
-<img src="/img/IMG_4539.PNG" style="display:inline"><img src="/img/IMG_4541.PNG" style="display:inline">
+<img src="/img/IMG_4539.PNG" style="display:inline-block;width:300px"><img src="/img/IMG_4541.PNG" style="display:inline-block;width: 300px;">
 
 ## 安利
 - <font color=LightCoral>喜欢的**作者**</font>是[尾鱼](https://m.jjwxc.net/wapauthor/387337)，文笔牛批！设定牛批！感情戏也很可！就算不怎么看小言的人也完全可以当普通的灵异小说看！<font size=1>虽然没真的灵异小说那么恐怖啦，本质还是小言</font>
@@ -37,7 +38,7 @@ date: 2020-12-27 01:46:19
 <!-- endtab -->
 
 <!-- tab 漫画@fa fa-tags -->
-[中之人基因组](/categories/汉化/漫画/中之人基因组/)（~~被作者鸽了~~连载中）
+[中之人基因组](/categories/汉化/中之人基因组/)（~~被作者鸽了~~连载中）
 <!-- endtab -->
 
 <!-- tab 游戏@bold -->

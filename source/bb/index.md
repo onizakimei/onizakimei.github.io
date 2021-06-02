@@ -1,5 +1,5 @@
 ---
-title: 说说
+title: 吐槽
 aside: false
 comments: false
 ---

@@ -572,7 +572,7 @@ yandex_site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
  theme_color:
-   enable: false
+   enable: true
 #   main: "#49B1F5"
 #   paginator: "#00c4b6"
 #   button_hover: "#FF7242"
@@ -682,7 +682,7 @@ display_mode: light
 # Beautify (美化頁面顯示)
 beautify:
   enable: true
-  field: post # site/post
+  field: site # site/post
   title-prefix-icon: '\e601'
   title-prefix-icon-color: '#F47466'
 
@@ -945,6 +945,7 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
      - <link rel="stylesheet" href="/css/iconfont.css">
      - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css"  media="defer" onload="this.media='all'"> #tag标签外挂
+     - '<style type="text/css">.fa-list-ul{color: red!important}</style>'
      #- '<style type="text/css">#toggle-sidebar {bottom: 80px}</style>' #aplayer吸底
      #- '<style type="text/css">.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body{left:-66px!important}.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover{left:0!important}</style>' #aplayer侧边栏
      #- '<style type="text/css">.aplayer.aplayer-fixed .aplayer-body{max-width: 325px!important}</style>' #aplayer宽度

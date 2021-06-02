@@ -1,32 +1,29 @@
 ---
-title: 📖扫文指南
-category:
-  - 杂七杂八
-abbrlink: 23612
-date: 2021-01-28 17:54:25
-description: 大眼仔，你再也屏蔽不了我了！
+title: 扫文指南
+date: 2021-06-02 17:02:48
+aside: false
 ---
-<meta name="referrer" content="no-referrer" />
 
 <center><font face="华文行楷" color=red size=5>大眼仔，你再也屏蔽不了我了！</font></center>
 <img src= "/bq/IMG_5259.GIF" style="zoom:40%">
 
-~~我就是想愤慨下创建博客的初衷。~~
+<center><s>我就是想愤慨下创建博客的初衷。</s></center>
 
-<!-- more -->
 ---
 
-👉<a href="#扫文合集" style="font-size: 5;background: #ebf5ff;color: #0371d5;box-shadow: 0px 0px 0px 1.5px black, 6px 8px 0 #8ebeea;padding: 10px 10px 10px 10px">不看废话直接跳年度总结</a>
+<a href="#扫文合集" style="font-size: 5;background: #ebf5ff;color: #0371d5;box-shadow: 0px 0px 0px 1.5px black, 6px 8px 0 #8ebeea;padding: 10px 10px 10px 10px">👉不看废话直接跳年度总结</a>
 
-- 不看原耽，只扫小言。
-- 基本只看he，若是be会在开头注明。
-- 扫文分 [强推](/categories/%E6%89%AB%E6%96%87/%E2%85%A0%E5%BC%BA%E6%8E%A8/)/[中强推](/categories/%E6%89%AB%E6%96%87/%E2%85%A1%E4%B8%AD%E5%BC%BA%E6%8E%A8/)/[中推](/categories/%E6%89%AB%E6%96%87/%E2%85%A2%E4%B8%AD%E6%8E%A8/)/[小推](/categories/%E6%89%AB%E6%96%87/%E2%85%A3%E5%B0%8F%E6%8E%A8/)/[无推](/categories/%E6%89%AB%E6%96%87/%E2%85%A4%E6%97%A0%E6%8E%A8/)/[弃](/categories/扫文/Ⅵ弃/)。全凭看后的心情推的。
-- 合集可参考[标签页](/tags)，不过标签有点杂可能会有漏~~嘻嘻~~。
-- 17年之后的书评都会写个140字概括，想看剧透的可以往下看。
-- 男主控。不喜欢看男配戏份多的文，也不喜欢看虐男。（火葬场系列除外，不过我也不怎么看这类型）
-- {% emp <font color=red>不提供资源</font> %}，基本都在晋江上面看，若是其他平台则会在书评最后注明。<font size=1>啊不过台言基本都网上看的……偶尔在readmoo买，实在是太贵了又短……</font>
-- 主要还是在[微博](https://weibo.com/u/5634709251)更新（时不时丢截图），不过书评会同步过来。
-- 因为几年来扫的数量有点多，这文章数一多博客上传就会变得很慢……迫不得已（~~当然也有我自身懒的原因~~）2017年之前的文不单独发（字数也少），2021年之前的小推/无推/弃文也只做合集。<font size=1>不过有的文我觉得挺有意思的还是会单独拎出来发。</font>
+1. 不看原耽，只扫小言。
+2. 基本只看he，若是be会在开头注明。
+3. 扫文分 [强推](/categories/%E6%89%AB%E6%96%87/%E2%85%A0%E5%BC%BA%E6%8E%A8/)/[中强推](/categories/%E6%89%AB%E6%96%87/%E2%85%A1%E4%B8%AD%E5%BC%BA%E6%8E%A8/)/[中推](/categories/%E6%89%AB%E6%96%87/%E2%85%A2%E4%B8%AD%E6%8E%A8/)/[小推](/categories/%E6%89%AB%E6%96%87/%E2%85%A3%E5%B0%8F%E6%8E%A8/)/[无推](/categories/%E6%89%AB%E6%96%87/%E2%85%A4%E6%97%A0%E6%8E%A8/)/[弃](/categories/扫文/Ⅵ弃/)。全凭看后的心情推的。
+4. 合集可参考{% btn '/tags',标签页,far fa-hand-point-right,outline blue %}不过标签有点杂可能会有漏~~嘻嘻~~。
+5. 17年之后的书评都会写个140字概括，想看剧透的可以往下看。
+6. 男主控。不喜欢看男配戏份多的文，也不喜欢看虐男。（火葬场系列除外，不过我也不怎么看这类型）
+7. {% emp <font color=red>不提供资源</font> %}，基本都在晋江上面看，若是其他平台则会在书评最后注明。<small>啊不过台言基本都网上看的……偶尔在readmoo买，实在是太贵了又短……</small>
+8. 主要还是在[微博](https://weibo.com/u/5634709251)更新（时不时丢截图），不过书评会同步过来。
+9. 因为几年来扫的数量有点多，这文章数一多博客上传就会变得很慢……迫不得已~~当然也有我自身懒的原因~~2017年之前的文不单独发，2021年之前的小推/无推/弃文也只做合集。(不过有的文我觉得挺有意思的还是会单独拎出来发)
+10. 最后丢一个折腾了半天的{% btn '/slides/author.html',作者安利ppt,far fa-hand-point-right,outline blue %}
+
 
 ## 扫文合集
 
