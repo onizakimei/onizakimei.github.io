@@ -1894,6 +1894,7 @@ slide:
 <div id="description">文风偏清淡，在一丝丝压抑下又带着些微的甜。字数都是十几万字的中篇，节奏把握得刚刚好。</div>
 <div id="left">
 
+- 欲晓
 - 江敏
 - 寇越
 - 张思芮
@@ -1905,6 +1906,19 @@ slide:
 - 武七七
 - 端午
 - 任青
+</div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
+<div id="text">
+
+### [欲晓](/post/62787/)
+<div id="star">⭐⭐⭐⭐⭐</div>
+
+>  男主是个白净乖巧的孩子却有个自私的妈，经常把年仅五岁的儿子丢在家。
+身为颜控的女主可稀罕这个邻居小弟弟了，女主妈也把他当半个儿子养。
+对男主来说女主就是他的小太阳，可这太阳一直不开窍，直到进入社会男主告白被拒开始疏远，女主才后知后觉咂摸过来。
+
 </div>
 
 ===
@@ -2036,6 +2050,18 @@ slide:
 是篇平淡温暖的文。
 
 </div>
+
+===
+<!-- .slide: data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/kumo2.gif" data-background-size="cover"-->
+<div id="text">
+
+### [竹纸坞家](/post/34864/)
+<div id="star">⭐</div>
+
+> 女主家是造纸的，却因女主拒绝了恶霸的求亲导致生意受挫。大家原以为新搬来的邻居恶霸弟弟也跟恶霸一样不讲道理，没想到为人不卑不亢，一脸淡定的同时会幼稚地做些举动吸引女主的注意。女主有察觉到，害羞地装不知情，其实自己也偷偷在意男主。剧情无雷点，就是太慢热了。
+
+</div>
+
 
 ---
 <!-- .slide: data-transition="convex" data-background-image="https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/sky.gif" data-background-size="cover"-->

@@ -45,7 +45,7 @@ table>tbody>tr:hover {
   display: inline !important;
   width: 55px !important;
   vertical-align: bottom!important;
-  margin-left: 3px !important;
+  margin-bottom: 3px !important;
   margin-right: 3px !important;
 }
 
@@ -54,6 +54,13 @@ table>tbody>tr:hover {
   width: 60px !important;
   vertical-align: bottom!important;
   margin-left: 3px !important;
+  margin-right: 3px !important;
+}
+
+#img {
+  display: inline !important;
+  width: 110px!important;
+  height: 110px!important;
   margin-right: 3px !important;
 }
 
@@ -147,8 +154,7 @@ span#subtitle {
 blockquote {
     background: url(/img/bg.jpg)!important;
     background-size: cover!important;
-    border-bottom: ridge!important;
-    border-radius: 1rem!important;
+    border-radius: 0.4rem!important;
     background-position: center!important;
 }
 
@@ -224,5 +230,3 @@ background-color: #49b1f5!important;
   color: #ffffff!important;
   text-shadow: 0 0 4px #4294e8, 3px 3px 3px #4294e8, 1px 1px 1px #4294e8!important;
 }
-
-.layout > div:first-child:not(.recent-posts)

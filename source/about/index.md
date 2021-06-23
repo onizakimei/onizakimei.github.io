@@ -32,22 +32,28 @@ comments: false
 ## 汉化
 汉化过的非同人作品：（同人太多了不说了）
 
-{% tabs Sixth unique name %}
-<!-- tab 小说@text-width -->
+{% tabs test4 %}
+
+<!-- tab 小说 -->
 [御神乐学院组曲](/categories/汉化/御神乐学园组曲/)（已完结）
 <!-- endtab -->
 
-<!-- tab 漫画@fa fa-tags -->
-[中之人基因组](/categories/汉化/中之人基因组/)（~~被作者鸽了~~连载中）
+<!-- tab 漫画 -->
+
+[中之人基因组](/categories/汉化/中之人基因组/)（连载中）
+
+[小狐狸们开饭啰](/categories/汉化/小狐狸们开饭啰/)（连载中）
+
 <!-- endtab -->
 
-<!-- tab 游戏@bold -->
+<!-- tab 游戏 -->
 [地球素人防卫](/post/29962/)（免费乙女游）
 <!-- endtab -->
 
-<!-- tab 广播剧@bold -->
+<!-- tab 广播剧 -->
 [３P×ＢＬ SONG♪ 彰良＆唯之](/post/62/)（🔞）
 <!-- endtab -->
+
 {% endtabs %}
 
 ## 在玩的手游
