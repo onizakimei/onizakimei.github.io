@@ -1,0 +1,237 @@
+#left {
+ margin: 40px 0 15px 0;
+ float: left;
+ text-align: center;
+ z-index:-10;
+ width:48%;
+ font-size: 0.7em;
+ line-height: 1.5; 
+}
+#right {
+ margin: 40px 0 15px 0;
+ float: right;
+ text-align: center;
+ z-index:-10;
+ width:48%;
+ font-size: 0.7em;
+ line-height: 1.5; 
+}
+
+#description {
+    background: #ebf5ff;
+    box-shadow: 0px 0px 0px 1.5px black, 12px 15px 0 #8ebeea;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 20px;
+    white-space: pre-wrap;
+    color: #295a88;
+}
+
+#star {
+    position: relative;  
+}
+.s1 {
+    display: inline;
+    animation:jump 1s linear 0s infinite alternate;
+}
+.s2 {
+    display: inline;
+    animation:jump 1s linear 0.2s infinite alternate;
+}
+.s3 {
+    display: inline;
+    animation:jump 1s linear 0.4s infinite alternate;
+}
+.s4 {
+    display: inline;
+    animation:jump 1s linear 0.6s infinite alternate;
+}
+.s5 {
+    display: inline;
+    animation:jump 1s linear 0.8s infinite alternate;
+}
+
+@keyframes jump {
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: -10px;
+    }
+    100% {
+        top: 10px;
+    }
+}
+
+#bg {
+    background-size: cover;
+    background-position: center;
+    opacity: 0.3;
+}
+#text {
+    background-image: url(https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/hoshi.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 3.8em 1.5em 2.8em 2.2em;
+}
+
+.reveal em, .reveal p, .reveal small {
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    color: #295a88;
+}
+.reveal h2, .reveal a {
+    background: url(https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/text2.gif);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-size: cover;
+    white-space: nowrap;
+}
+.reveal h2 {
+    font-family: 记忆碎片;
+}
+.reveal h3 {
+    display: inline;
+    background: url(https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/text2.gif);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-size: cover;
+    font-family: 小饼干;
+    box-shadow: inset 0px -20px 0 0px #bfe0ff;
+}
+
+.reveal, .reveal h1 {
+    font-family: 轻吟体M;
+    overflow-wrap: break-word;
+
+}
+
+.reveal blockquote {
+    margin: 0 auto;
+    padding: 5px;
+    box-shadow:none;
+    width: 100%;
+    font-style: normal;
+    font-family: 方正仿欧;
+}  
+
+.reveal ul {
+    margin-left: 0px;
+    font-size: 1rem;
+    list-style-type: none;
+    color: #ffffff;
+    text-shadow: -1px 1px 3px #1b91ff, 1px 1px 3px #1b91ff, 1px -1px 3px #1b91ff, -1px -1px 3px #1b91ff
+
+}
+
+.reveal ul li {
+  padding-left: 2.8em;
+  background-image: url(https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/无序.webp);
+  background-repeat: no-repeat;
+  background-size: 3em;
+  background-position: left center;
+}
+
+.reveal ul li:after {
+    content: "";
+    display: block;
+    height: 10px;
+    margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width:768px) {
+    .reveal h2 {
+    font-size: 3em;
+}
+    .reveal ul {
+    font-size: 2.6rem;
+    font-weight: bold;
+    }
+
+    .reveal ul li {
+      margin-bottom: 2.2rem;
+    }
+
+    .reveal p {
+        margin: 40px 0;
+        font-size: 60px;
+        margin-bottom: 0rem;
+    }
+    #text {
+    background-image: url(https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/text.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: fixed;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 4.5em 3.5em 4.5em 3.2em;
+    width: 82%;
+    background-position: center;
+    }
+    #more {
+        margin-top: -10em;
+    }
+    #description {
+        font-size: 40px;
+    }
+}
+
+
+
+#bq {
+  max-width: 5rem;
+  vertical-align: bottom;
+  margin-bottom: 0px;
+}
+
+.reveal .progress {
+    background: rgb(121 118 118 / 43%);
+    color: #1f8df5a6;
+    height: 5px;
+    background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+    background-size: 1rem 1rem;
+}
+
+.reveal .controls .controls-arrow {
+    color: #1b91ff;
+}
+@font-face {
+    font-family:'轻吟体M';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/QINGYINTIM.TTF');
+    font-display: fallback;
+}
+@font-face {
+    font-family:'小饼干';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/FZSJ-SHENQXBGT.TTF');
+    font-display: fallback;
+}
+@font-face {
+    font-family:'记忆碎片';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/theme/FZJiYDSPTJW1.TTF');
+    font-display: fallback;
+}
+
+@font-face {
+    font-family:'方正仿欧';
+    src:url('https://cdn.jsdelivr.net/gh/onizakimei/cdn/ppt/FANGOU.TTF');
+    font-display: fallback;
+}
+
+#star {
+    animation: heartbeat 1s ease 0s infinite normal;
+}
+@keyframes heartbeat {
+    0%{
+        transform: scale(0.9);
+    }
+    50%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(0.9);
+    }
+}
